@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<norma xmlns="http://www.lexml.gov.br/legislation"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.lexml.gov.br/legislation lexml-fulltext.xsd">
+
+  <identificador>urn:lex:br:federal:lei:2020-01-08;13977</identificador>
+  <tipo>Lei</tipo>
+  <nome>Lei nº 13.977, de 8 de janeiro de 2020</nome>
+  <data-publicacao>2020-01-09</data-publicacao>
+  <data-assinatura>2020-01-08</data-assinatura>
+  <data-vigencia>2020-01-09</data-vigencia>
+  <local>Brasília</local>
+
+  <autoridade>
+    <pessoa>
+      <nome>Jair Messias Bolsonaro</nome>
+      <cargo>Presidente da República</cargo>
+    </pessoa>
+  </autoridade>
+
+  <ementa>
+    Altera a Lei nº 12.764, de 27 de dezembro de 2012 (Lei Berenice Piana), e a Lei nº 9.265, de 12 de fevereiro de 1996,
+    para instituir a Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (Ciptea), e dá outras providências.
+  </ementa>
+
+  <assunto>Pessoa com Deficiência</assunto>
+  <classificacao>Saúde / Inclusão Social / Cidadania</classificacao>
+  <idioma>pt-BR</idioma>
+
+  <jurisdicao>
+    <pais>br</pais>
+    <esfera>federal</esfera>
+  </jurisdicao>
+
+  <referencias>
+    <referencia tipo="lei" numero="12764" data="2012-12-27"/>
+    <referencia tipo="lei" numero="9265" data="1996-02-12"/>
+    <referencia tipo="lei" numero="10048" data="2000-11-08"/>
+  </referencias>
+
+  <epigrafe>LEI Nº 13.977, DE 8 DE JANEIRO DE 2020</epigrafe>
+  <preambulo>O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:</preambulo>
+
+  <texto>
+    <artigo num="1">
+      <texto>
+        Esta Lei, denominada “Lei Romeo Mion”, altera a Lei nº 12.764, de 27 de dezembro de 2012
+        (Lei Berenice Piana), e a Lei nº 9.265, de 12 de fevereiro de 1996 (Lei da Gratuidade dos Atos de Cidadania),
+        para criar a Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (Ciptea), de expedição gratuita.
+      </texto>
+    </artigo>
+
+    <artigo num="2">
+      <texto>
+        A Lei nº 12.764, de 27 de dezembro de 2012 (Lei Berenice Piana), passa a vigorar com as seguintes alterações...
+      </texto>
+    </artigo>
+
+    <artigo num="3">
+      <texto>
+        O caput do art. 1º da Lei nº 9.265, de 12 de fevereiro de 1996 (Lei da Gratuidade dos Atos de Cidadania),
+        passa a vigorar acrescido do seguinte inciso VII...
+      </texto>
+    </artigo>
+
+    <artigo num="4">
+      <texto>(VETADO).</texto>
+    </artigo>
+
+    <artigo num="5">
+      <texto>Esta Lei entra em vigor na data de sua publicação.</texto>
+    </artigo>
+  </texto>
+
+  <fecho>Brasília, 8 de janeiro de 2020; 199º da Independência e 132º da República.</fecho>
+  <assinatura>JAIR MESSIAS BOLSONARO</assinatura>
+  <assinatura>Marcelo Henrique Teixeira Dias</assinatura>
+  <assinatura>Onyx Lorenzoni</assinatura>
+  <assinatura>Antonio Carlos Paiva Futuro</assinatura>
+</norma>

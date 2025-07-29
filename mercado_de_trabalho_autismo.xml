@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<norma xmlns="http://www.lexml.gov.br/legislation"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.lexml.gov.br/legislation lexml-fulltext.xsd">
+
+  <identificador>urn:lex:br:federal:lei:2024-10-03;14992</identificador>
+  <tipo>Lei</tipo>
+  <nome>Lei nº 14.992, de 3 de outubro de 2024</nome>
+  <data-publicacao>2024-10-04</data-publicacao>
+  <data-assinatura>2024-10-03</data-assinatura>
+  <data-vigencia>2024-10-04</data-vigencia>
+  <local>Brasília</local>
+
+  <autoridade>
+    <pessoa>
+      <nome>Luiz Inácio Lula da Silva</nome>
+      <cargo>Presidente da República</cargo>
+    </pessoa>
+  </autoridade>
+
+  <ementa>
+    Altera a Lei nº 13.667, de 17 de maio de 2018, para estabelecer medidas que favoreçam a inserção de pessoas com transtorno do espectro autista no mercado de trabalho.
+  </ementa>
+
+  <assunto>Inclusão no Trabalho</assunto>
+  <classificacao>Trabalho / Pessoa com Deficiência / Inclusão Social</classificacao>
+  <idioma>pt-BR</idioma>
+
+  <jurisdicao>
+    <pais>br</pais>
+    <esfera>federal</esfera>
+  </jurisdicao>
+
+  <referencias>
+    <referencia tipo="lei" numero="13667" data="2018-05-17"/>
+    <referencia tipo="lei" numero="10097" data="2000-12-19"/>
+    <referencia tipo="decreto" numero="12115" data="2024-07-17"/>
+  </referencias>
+
+  <epigrafe>LEI Nº 14.992, DE 3 DE OUTUBRO DE 2024</epigrafe>
+  <preambulo>O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:</preambulo>
+
+  <texto>
+    <artigo num="1">
+      <texto>A Lei nº 13.667, de 17 de maio de 2018, passa a vigorar com as seguintes alterações:</texto>
+
+      <artigo-alterado num="6">
+        <inciso num="I">
+          <texto>prover o pessoal e a infraestrutura necessários à execução das ações e dos serviços do Sine, com observância das normas técnicas de acessibilidade da Associação Brasileira de Normas Técnicas (ABNT), bem como financiá-lo, por meio de repasses fundo a fundo;</texto>
+        </inciso>
+      </artigo-alterado>
+
+      <artigo-alterado num="7">
+        <inciso num="V">
+          <texto>integrar ao Sine a base de dados do Sistema Nacional de Cadastro da Pessoa com Transtorno do Espectro Autista (SisTEA), previsto no Decreto nº 12.115, de 17 de julho de 2024, sob a responsabilidade do Ministério dos Direitos Humanos e da Cidadania, com vistas à intermediação de vagas de emprego e contratos de aprendizagem, nos termos da Lei nº 10.097, de 19 de dezembro de 2000.</texto>
+        </inciso>
+      </artigo-alterado>
+
+      <artigo-alterado num="9">
+        <inciso num="IX">
+          <texto>fomentar iniciativas para a inclusão de pessoas com deficiência no mercado de trabalho, incluindo a realização de feiras de emprego e a sensibilização de empregadores para a contratação de pessoas com deficiência.</texto>
+        </inciso>
+      </artigo-alterado>
+    </artigo>
+
+    <artigo num="2">
+      <texto>Esta Lei entra em vigor na data de sua publicação.</texto>
+    </artigo>
+  </texto>
+
+  <fecho>Brasília, 3 de outubro de 2024; 203º da Independência e 136º da República.</fecho>
+  <assinatura>LUIS INÁCIO LULA DA SILVA</assinatura>
+  <assinatura>Macaé Maria Evaristo dos Santos</assinatura>
+  <assinatura>Enrique Ricardo Lewandowski</assinatura>
+  <assinatura>Francisco Macena da Silva</assinatura>
+</norma>

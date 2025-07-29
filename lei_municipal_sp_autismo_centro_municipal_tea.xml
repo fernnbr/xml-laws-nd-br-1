@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<norma xmlns="http://www.lexml.gov.br/legislation"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.lexml.gov.br/legislation lexml-fulltext.xsd">
+
+  <identificador>urn:lex:br:sp:sao.paulo:lei:2024-12-27;18213</identificador>
+  <tipo>Lei</tipo>
+  <nome>Lei nº 18.213, de 27 de dezembro de 2024</nome>
+  <data-publicacao>2024-12-27</data-publicacao>
+  <data-assinatura>2024-12-27</data-assinatura>
+  <data-vigencia>2024-12-27</data-vigencia>
+  <local>São Paulo</local>
+
+  <autoridade>
+    <pessoa>
+      <nome>Ricardo Nunes</nome>
+      <cargo>Prefeito do Município de São Paulo</cargo>
+    </pessoa>
+  </autoridade>
+
+  <ementa>
+    Denomina “Centro Municipal para Pessoa com Transtorno do Espectro do Autismo Dra. Marina Magro Beringhs Martinez” o 1º Centro Municipal para Pessoas com Transtorno do Espectro do Autismo.
+  </ementa>
+
+  <classificacao>Administração Pública / Nomeação de Logradouros / Pessoa com Deficiência</classificacao>
+  <assunto>Transtorno do Espectro Autista</assunto>
+  <idioma>pt-BR</idioma>
+
+  <jurisdicao>
+    <pais>br</pais>
+    <esfera>municipal</esfera>
+    <estado>SP</estado>
+    <municipio>São Paulo</municipio>
+  </jurisdicao>
+
+  <referencias>
+    <referencia tipo="projeto-lei" numero="823" data="2024"/>
+  </referencias>
+
+  <epigrafe>LEI Nº 18.213, DE 27 DE DEZEMBRO DE 2024</epigrafe>
+  <preambulo>RICARDO NUNES, Prefeito do Município de São Paulo, no uso das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal, em sessão de 10 de dezembro de 2024, decretou e eu promulgo a seguinte lei:</preambulo>
+
+  <texto>
+    <artigo num="1">
+      <texto>Fica denominado “Centro Municipal para Pessoa com Transtorno do Espectro do Autismo Dra. Marina Magro Beringhs Martinez” o 1º Centro Municipal para Pessoas com Transtorno do Espectro do Autismo.</texto>
+    </artigo>
+    <artigo num="2">
+      <texto>As despesas com a execução desta Lei correrão por conta de dotações próprias, suplementadas se necessário.</texto>
+    </artigo>
+    <artigo num="3">
+      <texto>Esta Lei entra em vigor na data de sua publicação.</texto>
+    </artigo>
+  </texto>
+
+  <fecho>PREFEITURA DO MUNICÍPIO DE SÃO PAULO, aos 27 de dezembro de 2024, 471º da fundação de São Paulo.</fecho>
+
+  <assinatura>RICARDO NUNES — PREFEITO</assinatura>
+  <assinatura>FABRICIO COBRA ARBEX — Secretário Municipal da Casa Civil</assinatura>
+  <assinatura>FERNANDO JOSÉ DA COSTA — Secretário Municipal de Justiça</assinatura>
+
+  <observacao>Publicada na Casa Civil, em 27 de dezembro de 2024. Documento original assinado nº 116906866</observacao>
+</norma>
