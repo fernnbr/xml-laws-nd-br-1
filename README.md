@@ -15,9 +15,18 @@ Entre essas naturezas estão: o autismo, TDAH, dislexia, entre outras. A legisla
 
 ---
 
-## Autoria 
+## Autoria e Pessoas Colaboradoras
 
-Sarah F. Fernn | em JUL.29.2025 | Update Contínuo | @fernnbr no GitHub
+**Data**
+
+JUL.29.2025 | Update Contínuo | 
+
+**Autoria**
+Sarah F. Fernn (@fennbr - Github | in/sarahfernn - LinkedIn) 
+
+**Pessoas Colaboradoras**
+
+Adv. Angélica Ribeiro de Moura (/in/angelicaribeirodemoura)
 
 ---
 
