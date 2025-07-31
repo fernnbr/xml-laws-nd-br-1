@@ -1,0 +1,89 @@
+<!-- Dispõe sobre o Protocolo Individualizado de Avaliação (PIA) para os alunos com Transtornos Globais do Desenvolvimento, incluindo-se o Transtorno do Espectro Autista (TEA), nas instituições de ensino de todo o Estado -->
+
+<lexml xmlns="http://www.lexml.gov.br/schema/lexml">
+  <documento>
+    <identificacao>
+      <tipo>Lei</tipo>
+      <numero>17759</numero>
+      <data>2023-09-20</data>
+      <esfera>Estadual</esfera>
+      <local>SP</local>
+    </identificacao>
+    <ementa>
+      Dispõe sobre o Protocolo Individualizado de Avaliação (PIA) para os alunos com Transtornos Globais do Desenvolvimento, incluindo o Transtorno do Espectro Autista (TEA), nas instituições de ensino do Estado de São Paulo.
+    </ementa>
+    <texto>
+      <artigo numero="1">
+        <caput>
+          Os alunos com transtornos globais do desenvolvimento, matriculados no ensino fundamental I, fundamental II, médio, superior, técnico, tecnológico e profissionalizante em instituições de ensino de todo o Estado, têm o direito ao acesso às medidas da Política de Protocolo Individualizado de Avaliação (PIA).
+        </caput>
+        <paragrafo numero="1">
+          O direito ao Protocolo Individualizado de Avaliação (PIA), deverá ser concedido ao aluno, mediante simples requerimento com indicação da CID (Classificação Internacional de Doenças) e juntada do laudo elaborado por profissional habilitado, ou cópia do RG com indicação da deficiência e CID, ou Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (CIPTEA).
+        </paragrafo>
+        <paragrafo numero="2">
+          O diagnóstico será cadastrado no registro do aluno e, a partir disto, serão implementadas as ferramentas necessárias para o seu melhor aproveitamento acadêmico.
+        </paragrafo>
+        <paragrafo numero="3">
+          Efetuado o registro do Protocolo Individualizado de Avaliação (PIA), será concedido até o término do curso, sendo vedado à instituição requerer revalidação do registro.
+        </paragrafo>
+      </artigo>
+      <artigo numero="2">
+        <caput>
+          Consideram-se pessoas com transtornos globais do desenvolvimento as que apresentam alterações qualitativas das interações sociais recíprocas e da comunicação, ou repertório de interesses e atividades restrito, estereotipado e repetitivo, incluindo-se nesse grupo pessoas com Transtorno do Espectro Autista (TEA).
+        </caput>
+      </artigo>
+      <artigo numero="3">
+        <caput>
+          Para mitigar as barreiras às pessoas com transtornos globais do desenvolvimento no ensino fundamental I, fundamental II, médio, superior, técnico, tecnológico e profissionalizante, as instituições de ensino de todo o Estado deverão:
+        </caput>
+        <inciso numero="I">Vetado.</inciso>
+        <inciso numero="II">
+          Simplificar ou fragmentar as atividades para facilitar a compreensão e bom desempenho dos alunos.
+        </inciso>
+        <inciso numero="III">
+          Adaptar as avaliações para permitir que os alunos apresentem seus conhecimentos por intermédio de exercícios práticos ou trabalhos escritos e orais.
+        </inciso>
+        <paragrafo numero="1">
+          Os alunos deverão indicar as condições especiais definidas neste artigo em seu requerimento, detalhando as providências pedagógicas especiais de que necessitem.
+        </paragrafo>
+        <paragrafo numero="2">Vetado.</paragrafo>
+        <paragrafo numero="3">
+          A instituição educacional tomará as providências pedagógicas especiais que os alunos necessitem, de modo a manter sua constante adaptação às circunstâncias que se verificarem durante a implementação desta norma em sua vida estudantil.
+        </paragrafo>
+      </artigo>
+      <artigo numero="4">Vetado.</artigo>
+      <artigo numero="5">Vetado.</artigo>
+      <artigo numero="6">
+        <caput>
+          Esta lei entra em vigor no prazo de noventa dias a partir da data de sua publicação, revogadas disposições contrárias.
+        </caput>
+      </artigo>
+    </texto>
+    <assinaturas>
+      <autoridade>
+        <nome>Tarcísio de Freitas</nome>
+        <cargo>Governador do Estado de São Paulo</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Marcos da Costa</nome>
+        <cargo>Secretário dos Direitos da Pessoa com Deficiência</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Renato Feder</nome>
+        <cargo>Secretário da Educação</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Vahan Agopyan</nome>
+        <cargo>Secretário de Ciência, Tecnologia e Inovação</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Gilberto Kassab</nome>
+        <cargo>Secretário de Governo e Relações Institucionais</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Arthur Luis Pinho de Lima</nome>
+        <cargo>Secretário-Chefe da Casa Civil</cargo>
+      </autoridade>
+    </assinaturas>
+  </documento>
+</lexml>
