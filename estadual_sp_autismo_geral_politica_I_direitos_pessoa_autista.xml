@@ -1,0 +1,78 @@
+<!-- Institui a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista - TEA, e dá outras providências --> 
+
+<LexML xmlns="http://www.lexml.gov.br/lexml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lexml.gov.br/lexml http://www.lexml.gov.br/schema/lexml.xsd">
+  <Identificacao>
+    <Tipo>Lei</Tipo>
+    <Numero>17158</Numero>
+    <Data>2019-09-18</Data>
+    <Titulo>Institui a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista - TEA, e dá outras providências.</Titulo>
+    <SiglaCasaLegislativa>ALESP</SiglaCasaLegislativa>
+    <Estado>SP</Estado>
+    <Pais>BR</Pais>
+    <Autor>Assembleia Legislativa do Estado de São Paulo</Autor>
+    <Ementa>Institui a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista - TEA e dá outras providências.</Ementa>
+    <Situacao>Atualizada pela Lei nº 17798, de 06/10/2023</Situacao>
+  </Identificacao>
+  <Texto>
+    <Artigo numero="1">
+      <Caput>Esta lei institui a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista - TEA, e estabelece diretrizes para sua consecução.</Caput>
+      <Paragrafo numero="1">
+        <Texto>Para os efeitos desta lei, considera-se pessoa com Transtorno do Espectro Autista - TEA aquela portadora de síndrome clínica caracterizada na forma dos seguintes itens:</Texto>
+        <Inciso numero="1">Deficiência persistente e clinicamente significativa da comunicação e da interação sociais.</Inciso>
+        <Inciso numero="2">Padrões restritivos e repetitivos de comportamentos, interesses e atividades.</Inciso>
+      </Paragrafo>
+      <Paragrafo numero="2">A pessoa com TEA é considerada pessoa com deficiência, para todos os efeitos legais.</Paragrafo>
+    </Artigo>
+
+    <Artigo numero="2">
+      <Caput>São diretrizes da Política Estadual de Proteção dos Direitos da Pessoa com TEA:</Caput>
+      <Inciso numero="I">Intersetorialidade nas ações e atendimento;</Inciso>
+      <Inciso numero="II">Participação da comunidade na formulação de políticas públicas;</Inciso>
+      <Inciso numero="III">Atenção integral à saúde, incluindo diagnóstico precoce e acesso a medicamentos;</Inciso>
+      <Inciso numero="IV">Estímulo à inserção no mercado de trabalho;</Inciso>
+      <Inciso numero="V">Responsabilidade do poder público na informação;</Inciso>
+      <Inciso numero="VI">Capacitação de profissionais e familiares;</Inciso>
+      <Inciso numero="VII">Estímulo à pesquisa científica.</Inciso>
+      <ParagrafoUnico>Para cumprimento destas diretrizes, o poder público poderá firmar contrato ou convênio com entidades privadas.</ParagrafoUnico>
+    </Artigo>
+
+    <Artigo numero="3">
+      <Caput>São direitos da pessoa com TEA:</Caput>
+      <Inciso numero="I">Vida digna, integridade física e moral, desenvolvimento da personalidade, segurança e lazer;</Inciso>
+      <Inciso numero="II">Proteção contra qualquer forma de abuso e exploração;</Inciso>
+      <Inciso numero="III">Acesso à saúde, incluindo diagnóstico precoce, atendimento multiprofissional, nutrição adequada e medicamentos;</Inciso>
+      <Inciso numero="IV">Acesso à educação, moradia, trabalho, previdência e assistência social.</Inciso>
+      <Paragrafo numero="1">Nos casos necessários, o aluno com TEA terá direito a acompanhante especializado.</Paragrafo>
+      <Paragrafo numero="4">O acompanhante especializado atuará na inserção escolar e nas atividades pedagógicas.</Paragrafo>
+    </Artigo>
+
+    <Artigo numero="4">
+      <Caput>A pessoa com TEA não será submetida a tratamento desumano ou degradante, nem privada do convívio familiar ou discriminada.</Caput>
+      <ParagrafoUnico>Em caso de internação, aplica-se o artigo 4º da Lei Federal nº 10.216/2001.</ParagrafoUnico>
+    </Artigo>
+
+    <Artigo numero="5">
+      <Caput>Não será impedida a participação da pessoa com TEA em planos de saúde privados.</Caput>
+    </Artigo>
+
+    <Artigo numero="6">
+      <Caput>O gestor escolar que recusar matrícula de aluno com TEA será punido com multa de 3 a 20 salários mínimos.</Caput>
+      <Paragrafo numero="1">Vedada a limitação de alunos com TEA por sala de aula.</Paragrafo>
+      <Paragrafo numero="2">Em caso de reincidência, apurada com contraditório e ampla defesa, haverá perda do cargo.</Paragrafo>
+    </Artigo>
+
+    <Artigo numero="7">
+      <Caput>Esta lei entra em vigor na data de sua publicação.</Caput>
+    </Artigo>
+  </Texto>
+  <Assinaturas>
+    <Autoridade>CAUÊ MACRIS - Presidente da Assembleia Legislativa, em exercício como Governador</Autoridade>
+    <Autoridade>Célia Camargo Leão Edelmuth - Secretária dos Direitos da Pessoa com Deficiência</Autoridade>
+    <Autoridade>José Henrique Germann Ferreira - Secretário da Saúde</Autoridade>
+    <Autoridade>Antonio Carlos Rizeque Malufe - Secretário Executivo, Casa Civil</Autoridade>
+  </Assinaturas>
+  <Publicacao>
+    <Data>2019-09-19</Data>
+    <Fonte>Assessoria Técnica da Casa Civil</Fonte>
+  </Publicacao>
+</LexML>
