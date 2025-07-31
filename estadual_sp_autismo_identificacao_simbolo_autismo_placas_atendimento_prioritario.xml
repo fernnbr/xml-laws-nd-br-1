@@ -1,0 +1,40 @@
+<!-- Dispõe sobre o dever de inserção do símbolo mundial da conscientização sobre o Transtorno do Espectro Autista - TEA nas placas de atendimento prioritário --> 
+
+<LexML xmlns="http://www.lexml.gov.br/lexml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lexml.gov.br/lexml http://www.lexml.gov.br/schema/lexml.xsd">
+  <Identificacao>
+    <Tipo>Lei</Tipo>
+    <Numero>16756</Numero>
+    <Data>2018-06-08</Data>
+    <Titulo>Dispõe sobre o dever de inserção do símbolo mundial da conscientização sobre o Transtorno do Espectro Autista - TEA nas placas de atendimento prioritário.</Titulo>
+    <SiglaCasaLegislativa>ALESP</SiglaCasaLegislativa>
+    <Estado>SP</Estado>
+    <Pais>BR</Pais>
+    <Autor>Assembleia Legislativa do Estado de São Paulo</Autor>
+    <Ementa>Estabelece a obrigatoriedade da inserção do símbolo mundial do TEA nas placas de atendimento prioritário em estabelecimentos públicos e privados no Estado de São Paulo.</Ementa>
+  </Identificacao>
+  <Texto>
+    <Artigo numero="1">
+      <Caput>Os estabelecimentos públicos e privados que disponibilizam atendimento prioritário devem inserir nas placas que sinalizam esse tipo de atendimento a “fita quebra-cabeça”, símbolo mundial da conscientização sobre o Transtorno do Espectro Autista - TEA.</Caput>
+    </Artigo>
+
+    <Artigo numero="2">
+      <Caput>O descumprimento do disposto nesta lei sujeita o estabelecimento infrator às seguintes penalidades:</Caput>
+      <Inciso numero="I">Advertência por escrito na primeira autuação, pela autoridade competente;</Inciso>
+      <Inciso numero="II">Multa de 50 (cinquenta) Unidades Fiscais do Estado de São Paulo - UFESPs.</Inciso>
+      <ParagrafoUnico status="vetado">Vetado.</ParagrafoUnico>
+    </Artigo>
+
+    <Artigo numero="3">
+      <Caput>Esta lei entra em vigor após decorridos 30 (trinta) dias de sua publicação oficial.</Caput>
+    </Artigo>
+  </Texto>
+  <Assinaturas>
+    <Autoridade>MÁRCIO FRANÇA - Governador do Estado de São Paulo</Autoridade>
+    <Autoridade>José Roberto Aprillanti Junior - Secretário de Turismo</Autoridade>
+    <Autoridade>Claudio Valverde Santos - Secretário-Chefe da Casa Civil</Autoridade>
+  </Assinaturas>
+  <Publicacao>
+    <Data>2018-06-08</Data>
+    <Fonte>Assessoria Técnica da Casa Civil</Fonte>
+  </Publicacao>
+</LexML>
