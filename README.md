@@ -1,8 +1,8 @@
 # xml-laws-neurodiversity-br
 
-📜 **Legislação relacionada à Neurodiversidade no Brasil transformada em LexML para estudos.**
+📜 **Open Source | Legislação relacionada à Neurodiversidade no Brasil transformada em LexML para Estudos e Pesquisa.**
 
-Este repositório reúne leis brasileiras — em âmbito **federal**, **estadual** e **municipal** — que tratam de **neurodiversidade**.  
+Este repositório reúne leis brasileiras, em âmbito **federal**, **estadual** e **municipal** — que tratam sobre **neurodiversidade** e **Direito Neurodivergente** em diversos setores como saúde, educação e transporte.  
 Os textos foram convertidos para o formato **LexML Brasil**, visando facilitar o estudo jurídico, análise de dados e interoperabilidade com sistemas legais.
 
 
@@ -10,7 +10,8 @@ Os textos foram convertidos para o formato **LexML Brasil**, visando facilitar o
 
 ## 🧠 O que é Neurodiversidade?
 
-O conceito de **neurodiversidade** reconhece que existem variações do neurodesenvolvimento naturais no cérebro humano. Entre essas condições estão: o autismo, TDAH, dislexia, entre outras. A legislação brasileira tem avançado no reconhecimento e garantia de direitos dessas populações.
+O conceito de **neurodiversidade** reconhece que existem variações do neurodesenvolvimento naturais no cérebro humano. 
+Entre essas naturezas estão: o autismo, TDAH, dislexia, entre outras. A legislação brasileira tem avançado no reconhecimento e garantia de direitos dessas populações.
 
 ---
 
@@ -23,9 +24,9 @@ Sarah F. Fernn | em JUL.29.2025 | Update Contínuo | @fernnbr no GitHub
 ## Marcadores 
 
 
-- `federal/`: Leis aprovadas no Congresso Nacional
-- `estadual/`: Leis publicadas pelos estados brasileiros
-- `municipal/`: Normas municipais, como leis da cidade de São Paulo,por exemplo
+- `federal_`: Leis aprovadas no Congresso Nacional
+- `estadual_`: Leis publicadas pelos estados brasileiros
+- `municipal_`: Normas municipais, como leis da cidade de São Paulo, por exemplo
   
 - Cada arquivo segue a estrutura XML definida pelo [LexML Brasil](http://projeto.lexml.gov.br)
 
