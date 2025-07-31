@@ -24,12 +24,12 @@ JUL.29.2025 | Update Contínuo
 
 **> Autoria**
 ---
-Sarah F. Fernn (@fennbr - Github | in/sarahfernn - LinkedIn) 
+Sarah F. Fernn (GitHub: @fennbr| LinkedIn: in/sarahfernn ) 
 
 
 **> Pessoas Colaboradoras**
 ---
-Adv. Angélica Ribeiro de Moura (/in/angelicaribeirodemoura)
+Adv. Angélica Ribeiro de Moura (LinkedIn: /in/angelicaribeirodemoura)
 
 ---
 
