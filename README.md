@@ -9,7 +9,7 @@ Os textos foram convertidos para o formato **LexML Brasil**, visando facilitar o
 O repositório xml-laws-neurodiversity-br cumpre um papel fundamental ao reunir e padronizar, em um formato estruturado e aberto (LexML), toda a legislação brasileira relacionada à neurodiversidade. Esse trabalho promove a acessibilidade, transparência e o conhecimento sobre os direitos das pessoas neurodivergentes, como autistas, pessoas com TDAH, dislexia, entre outras condições.
 
 ## Utilidade
----
+
 
 Imaginamos que este repositório traga benefícios para diferentes atores. Para a sociedade, o acesso facilitado a essas leis fortalece a cidadania, permitindo que famílias, educadores e profissionais da saúde conheçam os direitos garantidos e as obrigações públicas, o que auxilia na defesa e promoção da inclusão social.
 
@@ -19,7 +19,7 @@ Enquanto que, para o poder público e servidores, o acesso a essa legislação e
 
 
 ## Usos e aplicações principais deste repositório
----
+
 
 - Facilitar o acesso e o entendimento da legislação sobre neurodiversidade para cidadãos, familiares, profissionais da saúde, educação e assistência social.
 
