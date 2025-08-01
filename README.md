@@ -35,7 +35,7 @@ Enquanto que, para o poder público e servidores, o acesso a essa legislação e
 
 ---
 
-## 🧠 O que é Neurodiversidade?
+## O que é Neurodiversidade?
 
 O conceito de **neurodiversidade** reconhece que existem variações do neurodesenvolvimento naturais no cérebro humano. 
 Entre essas naturezas estão: o autismo, TDAH, dislexia, entre outras. A legislação brasileira tem avançado no reconhecimento e garantia de direitos dessas populações.
@@ -71,7 +71,7 @@ Adv. Angélica Ribeiro de Moura (LinkedIn: /in/angelicaribeirodemoura)
 
 ---
 
-## 🛠️ Tecnologias e Padrões Utilizados
+## Tecnologias e Padrões Utilizados
 
 - **LexML Brasil**: padrão aberto para representação de documentos jurídicos em XML
 - **Schema XSD**: validação dos documentos com base no vocabulário oficial do LexML
@@ -79,7 +79,7 @@ Adv. Angélica Ribeiro de Moura (LinkedIn: /in/angelicaribeirodemoura)
 
 ---
 
-## 🎓 Objetivo
+## Objetivo
 
 Este projeto tem fins **educacionais e de pesquisa**. Serve como base para:
 
@@ -90,7 +90,7 @@ Este projeto tem fins **educacionais e de pesquisa**. Serve como base para:
 
 ---
 
-## 🤝 Contribuindo
+## Contribuindo
 
 Contribuições são bem-vindas! Você pode:
 
@@ -102,7 +102,7 @@ Para isso, abra uma *issue* ou envie um *pull request*, por favor
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este repositório está sob a licença [MIT](./LICENSE). 
 Os textos legais aqui transcritos são de **domínio público**, conforme a legislação brasileira
