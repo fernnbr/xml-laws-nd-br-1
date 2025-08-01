@@ -105,19 +105,19 @@ Para isso, abra uma *issue* ou envie um *pull request*, por favor
 ## Desafios Técnicos na Atualização do Repositório
 A manutenção e atualização contínua do xml-laws-neurodiversity-br enfrentam diversos desafios técnicos que impactam diretamente a velocidade das atualizações:
 
-- Falta de padronização dos arquivos originais
+**- Falta de padronização dos arquivos originais:**
 Os textos legais disponíveis nos sites oficiais das assembleias legislativas, câmaras municipais, por exemplo, frequentemente vêm em formatos variados (PDF, DOC, HTML, imagens digitalizadas), sem uma estrutura uniforme, o que dificulta a conversão para o formato LexML
 
-- Variedade e inconsistência entre os sites legislativos
+**- Variedade e inconsistência entre os sites legislativos:**
 Cada estado e município possui seu próprio portal legislativo com diferentes níveis de usabilidade, navegabilidade e organização dos conteúdos. Essa heterogeneidade obriga processos manuais para localização, download e tratamento dos documentos
 
-- Dificuldade em encontrar legislações específicas
+**- Dificuldade em encontrar legislações específicas:**
 Muitos portais subnacionais carecem de ferramentas eficientes de busca e filtros detalhados. Isso gera atrasos na identificação das normas relevantes para neurodiversidade, pois exige análises manuais e cruzamento de informações
 
-- Ausência de filtros avançados e categorização
+**- Ausência de filtros avançados e categorização:**
 A falta de filtros por tema, área de atuação (saúde, educação, transporte) ou público-alvo dentro dos sites oficiais aumenta o esforço necessário para coletar e classificar corretamente as leis relacionadas à neurodiversidade. Fizemos uma classificação inicial, mas acreditamos que quando alcançarmos mais legislações no repositório, essa classificação será revisada
 
-- Desafios na usabilidade dos portais oficiais
+**- Desafios na usabilidade dos portais oficiais:**
 Alguns portais apresentam interfaces desatualizadas, lentas ou pouco responsivas, o que dificulta a automatização do processo de coleta e aumenta o tempo para atualização do repositório
 
 ---
