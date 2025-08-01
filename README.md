@@ -1,6 +1,6 @@
 # xml-laws-neurodiversity-br
 
-📜 **Open Source | Legislação relacionada à Neurodiversidade no Brasil transformada em LexML para Estudos e Pesquisa.**
+📜 **Open Source | Legislação relacionada à Neurodiversidade no Brasil transformada em LexML para Estudos e Pesquisa**
 
 Este repositório reúne leis brasileiras, em âmbito **federal**, **estadual** e **municipal** — que tratam sobre **neurodiversidade** e **Direito Neurodivergente** em diversos setores como saúde, educação e transporte.  
 
