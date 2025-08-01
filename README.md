@@ -3,8 +3,35 @@
 📜 **Open Source | Legislação relacionada à Neurodiversidade no Brasil transformada em LexML para Estudos e Pesquisa.**
 
 Este repositório reúne leis brasileiras, em âmbito **federal**, **estadual** e **municipal** — que tratam sobre **neurodiversidade** e **Direito Neurodivergente** em diversos setores como saúde, educação e transporte.  
-Os textos foram convertidos para o formato **LexML Brasil**, visando facilitar o estudo jurídico, análise de dados e interoperabilidade com sistemas legais.
 
+Os textos foram convertidos para o formato **LexML Brasil**, visando facilitar o estudo jurídico, análise de dados e interoperabilidade com sistemas legais, já que originalmente essas leis se apresentam em formatos diferentes como web, doc ou PDF, por exemplo. 
+
+O repositório xml-laws-neurodiversity-br cumpre um papel fundamental ao reunir e padronizar, em um formato estruturado e aberto (LexML), toda a legislação brasileira relacionada à neurodiversidade. Esse trabalho promove a acessibilidade, transparência e o conhecimento sobre os direitos das pessoas neurodivergentes, como autistas, pessoas com TDAH, dislexia, entre outras condições.
+
+## Utilidade
+---
+
+Imaginamos que este repositório traga benefícios para diferentes atores. Para a sociedade, o acesso facilitado a essas leis fortalece a cidadania, permitindo que famílias, educadores e profissionais da saúde conheçam os direitos garantidos e as obrigações públicas, o que auxilia na defesa e promoção da inclusão social.
+
+Para pesquisadores, o repositório oferece uma base organizada e interoperável para estudos multidisciplinares envolvendo direito, neurociência, políticas públicas e ciência de dados. A uniformização dos textos em LexML facilita análises automatizadas, mineração de dados e desenvolvimento de ferramentas inteligentes que possam interpretar e aplicar o conteúdo legal.
+
+Enquanto que, para o poder público e servidores, o acesso a essa legislação estruturada apoia a formulação de políticas públicas mais eficazes, monitoramento do cumprimento das leis e integração entre diferentes níveis de governo. Além disso, possibilita o desenvolvimento de sistemas digitais que automatizem processos legais, contribuindo para maior eficiência administrativa e transparência.
+
+
+## Usos e aplicações principais deste repositório
+---
+
+- Facilitar o acesso e o entendimento da legislação sobre neurodiversidade para cidadãos, familiares, profissionais da saúde, educação e assistência social.
+
+- Suporte a pesquisas acadêmicas e científicas em áreas como direito, neurociências, políticas públicas, tecnologia assistiva e inclusão social.
+
+- Análises automatizadas e mineração de dados legislativos por meio da estrutura XML padrão LexML, que permite integração com ferramentas de inteligência artificial e processamento de linguagem natural.
+
+- Desenvolvimento de aplicativos e sistemas de informação para o poder público e organizações civis que atuam na defesa dos direitos neurodivergentes.
+
+- Aprimoramento da transparência e governança pública, promovendo a integração de normas federais, estaduais e municipais em uma única base consultável.
+
+- Base para iniciativas educacionais que busquem difundir conhecimento sobre direitos e políticas relacionadas à neurodiversidade.
 
 ---
 
