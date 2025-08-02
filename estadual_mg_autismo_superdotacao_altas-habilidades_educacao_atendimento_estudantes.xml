@@ -109,3 +109,63 @@
         <identificacao>XIII</identificacao>
         <texto>estímulo à formação de redes de apoio que envolvam profissionais das áreas de educação, saúde, assistência social, trabalho e pesquisa, visando fomentar o desenvolvimento integral dos estudantes com deficiência, transtorno do espectro autista e altas habilidades ou superdotação.</texto>
       </inciso>
+                 <inciso id="art3.xiv">
+        <identificacao>XIV</identificacao>
+        <texto>garantia de dieta alimentar específica para o aluno que necessite de atenção nutricional individualizada, nos termos do § 2º do art. 12 da Lei Federal nº 11.947, de 16 de junho de 2009;</texto>
+        <nota>Inciso acrescentado pelo art. 1º da Lei nº 25.169, de 18/3/2025.</nota>
+      </inciso>
+
+      <inciso id="art3.xv">
+        <identificacao>XV</identificacao>
+        <texto>avaliação sistemática e periódica da infraestrutura escolar e da oferta de serviços e de recursos especializados conforme as demandas e necessidades dos estudantes, em cada estabelecimento de ensino da rede estadual de educação básica, observado, no que couber, o disposto na Lei nº 24.130, de 6 de junho de 2022.</texto>
+        <nota>Inciso acrescentado pelo art. 1º da Lei nº 25.169, de 18/3/2025.</nota>
+      </inciso>
+
+      <inciso id="art3.xvi">
+        <identificacao>XVI</identificacao>
+        <texto>promoção de campanhas educativas dirigidas à comunidade escolar sobre a inclusão dos estudantes com deficiência e transtorno do espectro autista, abordando:</texto>
+
+        <alinea id="art3.xvi.a">
+          <identificacao>a)</identificacao>
+          <texto>o combate ao preconceito, à discriminação e a quaisquer formas de exclusão no ambiente escolar;</texto>
+        </alinea>
+
+        <alinea id="art3.xvi.b">
+          <identificacao>b)</identificacao>
+          <texto>os direitos assegurados aos estudantes com deficiência e transtorno do espectro autista pela legislação pertinente;</texto>
+        </alinea>
+
+        <alinea id="art3.xvi.c">
+          <identificacao>c)</identificacao>
+          <texto>a participação da comunidade escolar e das famílias no processo de inclusão dos estudantes com deficiência e transtorno do espectro autista.</texto>
+        </alinea>
+
+        <nota>Inciso acrescentado pelo art. 2º da Lei nº 25.415, de 31/7/2025.</nota>
+      </inciso>
+
+      <paragrafo id="art3.§1">
+        <identificacao>§ 1º</identificacao>
+        <texto>O Estado poderá designar estabelecimentos de ensino da rede estadual de educação básica como unidades de referência em educação inclusiva, com base nos resultados da avaliação de que trata o inciso XV do caput deste artigo.</texto>
+        <nota>Parágrafo acrescentado pelo art. 1º da Lei nº 25.169, de 18/3/2025.</nota>
+      </paragrafo>
+
+      <paragrafo id="art3.§2">
+        <identificacao>§ 2º</identificacao>
+        <texto>As campanhas educativas de que trata o inciso XVI do caput poderão ser realizadas por meio de articulação entre as áreas de educação, saúde e assistência social.</texto>
+        <nota>Parágrafo acrescentado pelo art. 2º da Lei nº 25.415, de 31/7/2025.</nota>
+      </paragrafo>
+    </artigo>
+
+    <artigo id="art4">
+      <identificacao>Art. 4º</identificacao>
+      <texto>Esta lei entra em vigor na data de sua publicação.</texto>
+    </artigo>
+  </corpo>
+
+  <assinatura>
+    <texto>Belo Horizonte, aos 27 de junho de 2024; 236º da Inconfidência Mineira e 203º da Independência do Brasil.</texto>
+    <autor>ROMEU ZEMA NETO</autor>
+    <cargo>Governador do Estado</cargo>
+  </assinatura>
+</lei>
+
