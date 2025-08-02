@@ -96,7 +96,7 @@
           </subparagrafo>
         </paragrafo>
       </artigo>
-
+      
       <artigo id="art5">
         <titulo>Art. 5º</titulo>
         <texto>É garantido à pessoa com transtorno do espectro autista o direito à assistência social e à proteção social especial, nos termos da legislação federal vigente.</texto>
@@ -111,3 +111,29 @@
           </subparagrafo>
         </paragrafo>
       </artigo>
+            <artigo id="art6">
+        <titulo>Art. 6º</titulo>
+        <texto>Fica instituído o uso do símbolo mundial da conscientização do transtorno do espectro autista, denominado “fita quebra-cabeça”, para identificação de prioridades de atendimento, nos termos da legislação vigente.</texto>
+      </artigo>
+
+      <artigo id="art7">
+        <titulo>Art. 7º</titulo>
+        <texto>As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias.</texto>
+      </artigo>
+
+      <artigo id="art8">
+        <titulo>Art. 8º</titulo>
+        <texto>Esta Lei entra em vigor na data de sua publicação.</texto>
+      </artigo>
+
+    </corpo>
+    <assinatura>
+      <texto>Palácio Marechal Floriano Peixoto, em Maceió, 21 de março de 2017.</texto>
+      <autoridade cargo="Governador do Estado">Renan Filho</autoridade>
+      <autoridade cargo="Secretário de Estado da Saúde">José Thomaz Nonô</autoridade>
+      <autoridade cargo="Secretário de Estado da Educação">Laura Souza</autoridade>
+      <autoridade cargo="Secretária de Estado da Assistência e Desenvolvimento Social">Adriana Toledo</autoridade>
+    </assinatura>
+  </textoArticulado>
+</lei>
+
