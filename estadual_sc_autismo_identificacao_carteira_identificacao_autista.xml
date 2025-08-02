@@ -1,0 +1,71 @@
+<!-- Institui a Carteira de Identificação do Autista no âmbito do Estado de Santa Catarina -->
+
+<lei xmlns="http://www.lexml.gov.br/1.0" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://www.lexml.gov.br/schema/1.0/lexml.xsd">
+  
+  <identificacao>
+    <tipo>Lei</tipo>
+    <numero>17754</numero>
+    <data>2019-07-10</data>
+    <ementa>Institui a Carteira de Identificação do Autista no âmbito do Estado de Santa Catarina.</ementa>
+  </identificacao>
+
+  <origem>
+    <autor tipo="Deputado Estadual">Mauro de Nadal</autor>
+    <numero>PL./0064.6/2018</numero>
+    <uf>SC</uf>
+    <fonte>ALESC/GCAN</fonte>
+    <publicacao>
+      <veiculo>Diário Oficial do Estado de Santa Catarina</veiculo>
+      <data>2019-07-11</data>
+      <numero>21054</numero>
+    </publicacao>
+    <situacao>
+      <veto tipo="parcial">MSV/00135/2019</veto>
+      <alteracao por="Lei">18616/2023</alteracao>
+      <regulamentacao por="Decreto">436/2020</regulamentacao>
+    </situacao>
+  </origem>
+
+  <textoArticulado>
+    <epigrafe>LEI Nº 17.754, DE 10 DE JULHO DE 2019</epigrafe>
+    <ementa>Institui a Carteira de Identificação do Autista no âmbito do Estado de Santa Catarina.</ementa>
+    <corpo>
+
+      <artigo id="art1">
+        <titulo>Art. 1º</titulo>
+        <texto>Fica instituída a Carteira de Identificação do Autista visando a propiciar a contabilização, no âmbito do Estado de Santa Catarina, do número de portadores dessa especial condição, como tal definida no art. 1º da Lei federal nº 12.764, de 27 de dezembro de 2012, que instituiu a Política Nacional da Pessoa com Transtorno do Espectro Autista.</texto>
+        <paragrafo tipo="unico" status="vetado"/>
+      </artigo>
+
+      <artigo id="art2">
+        <titulo>Art. 2º</titulo>
+        <texto>Além dos direitos da pessoa com transtorno do espectro autista, estabelecidos no art. 3º da Lei federal nº 12.764, de 2012, o portador do documento de identificação de que trata o art. 1º desta Lei será beneficiário de:</texto>
+        <inciso id="art2.i">preferência no atendimento pessoal em instituições públicas do Estado de Santa Catarina para o trato de assuntos de seu interesse, inclusive quando representado por seu responsável legal;</inciso>
+        <inciso id="art2.ii">gratuidade no transporte intermunicipal de passageiros.</inciso>
+        <paragrafo tipo="unico" status="vetado"/>
+      </artigo>
+
+      <artigo id="art2a">
+        <titulo>Art. 2º-A</titulo>
+        <texto>A Carteira de Identificação do Autista deve ser emitida de maneira virtual, mediante requerimento formulário e entrega da documentação necessária por protocolo eletrônico através do sítio eletrônico da Fundação Catarinense de Educação Especial (FCEE).</texto>
+        <nota>Redação incluída pela Lei nº 18.616, de 2023.</nota>
+      </artigo>
+
+      <artigo id="art3">
+        <titulo>Art. 3º</titulo>
+        <texto>Esta Lei entra em vigor na data de sua publicação.</texto>
+      </artigo>
+
+    </corpo>
+
+    <assinatura>
+      <autoridade cargo="Governador do Estado">Carlos Moisés da Silva</autoridade>
+      <local>Florianópolis</local>
+      <data>2019-07-10</data>
+    </assinatura>
+
+  </textoArticulado>
+
+</lei>
