@@ -1,0 +1,68 @@
+<!-- Estabelece que nos editais de concessão e/ou permissão da prestação dos serviços públicos de conservação, recuperação, manutenção, implantação de melhorias e operação de rodovias estaduais, constará a isenção do pagamento de pedágio às pessoas com doenças graves e degenerativas, transtorno do espectro autista e/ou com deficiência de acordo com o disposto no art. 2º da Lei nacional nº 13.146, de 2015, quando em tratamento fora do Município de seu domicílio --> 
+
+<lei xmlns="http://www.lexml.gov.br/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://www.lexml.gov.br/schema/1.0/lexml.xsd">
+
+  <identificacao>
+    <tipo>Lei</tipo>
+    <numero>18647</numero>
+    <data>2023-06-05</data>
+    <ementa>
+      Estabelece que nos editais de concessão e/ou permissão da prestação dos serviços públicos de conservação, recuperação, manutenção, implantação de melhorias e operação de rodovias estaduais, constará a isenção do pagamento de pedágio às pessoas com doenças graves e degenerativas, transtorno do espectro autista e/ou com deficiência, de acordo com o disposto no art. 2º da Lei nacional nº 13.146, de 2015, quando em tratamento fora do Município de seu domicílio.
+    </ementa>
+  </identificacao>
+
+  <origem>
+    <uf>SC</uf>
+    <fonte>Assembleia Legislativa do Estado de Santa Catarina</fonte>
+    <publicacao>
+      <veiculo>Diário Oficial do Estado</veiculo>
+      <data>2023-06-06</data>
+      <numero>22034</numero>
+    </publicacao>
+  </origem>
+
+  <textoArticulado>
+    <epigrafe>LEI Nº 18.647, DE 5 DE JUNHO DE 2023</epigrafe>
+    <ementa>
+      Estabelece que nos editais de concessão e/ou permissão da prestação dos serviços públicos de conservação, recuperação, manutenção, implantação de melhorias e operação de rodovias estaduais, constará a isenção do pagamento de pedágio às pessoas com doenças graves e degenerativas, transtorno do espectro autista e/ou com deficiência, de acordo com o disposto no art. 2º da Lei nacional nº 13.146, de 2015, quando em tratamento fora do Município de seu domicílio.
+    </ementa>
+    <corpo>
+
+      <artigo id="art1">
+        <titulo>Art. 1º</titulo>
+        <texto>
+          Fica estabelecida, nos editais de concessão e/ou permissão da prestação dos serviços públicos de conservação, recuperação, manutenção, implantação de melhorias e operação de rodovias estaduais, a isenção de pagamento de pedágio às pessoas com doenças graves e degenerativas, transtorno do espectro autista e/ou com deficiência de acordo com o disposto no art. 2º da Lei nacional nº 13.146, de 6 de julho de 2015, quando em tratamento fora do Município de seu domicílio.
+        </texto>
+      </artigo>
+
+      <artigo id="art2">
+        <titulo>Art. 2º</titulo>
+        <texto>A fruição da isenção prevista no caput fica condicionada à comprovação de:</texto>
+        <inciso numero="I">tratamento de saúde fora do Município de seu domicílio;</inciso>
+        <inciso numero="II">inexistência de tratamento similar no Município de seu domicílio;</inciso>
+        <inciso numero="III">periodicidade e duração do tratamento, por meio de laudo médico.</inciso>
+      </artigo>
+
+      <artigo id="art3">
+        <titulo>Art. 3º</titulo>
+        <texto>Os editais de que trata esta Lei exigirão que a licitante vencedora facilite o atendimento e identifique os beneficiários.</texto>
+      </artigo>
+
+      <artigo id="art4">
+        <titulo>Art. 4º</titulo>
+        <texto>Esta Lei entra em vigor na data de sua publicação.</texto>
+      </artigo>
+
+    </corpo>
+
+    <assinatura>
+      <autoridade cargo="Governador do Estado">Jorginho dos Santos Mello</autoridade>
+      <local>Florianópolis</local>
+      <data>2023-06-05</data>
+    </assinatura>
+
+  </textoArticulado>
+
+</lei>
