@@ -1,0 +1,45 @@
+<!-- ALTERA a Lei n.º 5.100 de 14 de janeiro de 2020 que “dispõe sobre a criação do selo empresa amiga dos autistas e portadores do Transtorno de Espectro Autista e Transtorno de Déficit de Atenção (TDAH) e dá outras providências --> 
+
+<lei xmlns="http://www.lexml.gov.br/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://www.lexml.gov.br/schema/1.0/lexml.xsd">
+
+  <identificacao>
+    <tipo>Lei</tipo>
+    <numero>6414</numero>
+    <data>2023-09-18</data>
+    <ementa>Altera a Lei nº 5.100, de 14 de janeiro de 2020, que “dispõe sobre a criação do selo Empresa Amiga dos Autistas e Portadores do Transtorno do Espectro Autista e Transtorno de Déficit de Atenção (TDAH) e dá outras providências”.</ementa>
+  </identificacao>
+
+  <origem>
+    <uf>AM</uf>
+    <fonte>Assembleia Legislativa do Estado do Amazonas</fonte>
+  </origem>
+
+  <textoArticulado>
+    <epigrafe>LEI Nº 6.414, DE 18 DE SETEMBRO DE 2023</epigrafe>
+    <ementa>Altera a Lei nº 5.100, de 14 de janeiro de 2020, que dispõe sobre a criação do selo Empresa Amiga dos Autistas e Portadores do Transtorno do Espectro Autista e Transtorno de Déficit de Atenção (TDAH).</ementa>
+
+    <corpo>
+
+      <artigo id="art1">
+        <titulo>Art. 1º</titulo>
+        <texto>O art. 5º da Lei nº 5.100, de 14 de janeiro de 2020, passa a vigorar com a seguinte redação:</texto>
+        <citacao texto="Art. 5º O Selo será concedido pelo Governador do Estado, ouvindo a Secretaria responsável pela formulação, execução e implementação de políticas públicas voltadas às pessoas com deficiência, conforme indicação do Executivo."/>
+      </artigo>
+
+      <artigo id="art2">
+        <titulo>Art. 2º</titulo>
+        <texto>Esta Lei entra em vigor na data da sua publicação.</texto>
+      </artigo>
+
+    </corpo>
+
+    <assinatura>
+      <autoridade cargo="Presidente da Assembleia Legislativa do Estado do Amazonas">[Assinado Digitalmente]</autoridade>
+      <local>Manaus</local>
+      <data>2023-09-18</data>
+    </assinatura>
+
+  </textoArticulado>
+</lei>
