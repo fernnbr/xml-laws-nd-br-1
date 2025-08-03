@@ -1,0 +1,62 @@
+<!-- Institui o Selo Amazonas Amigo do Autista, que dispõe sobre medidas que garantam a proteção e direitos das pessoas com Transtorno do Espectro Autista (TEA) e seus familiares, nos Municípios do Estado -->
+
+<lei xmlns="http://www.lexml.gov.br/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://www.lexml.gov.br/schema/1.0/lexml.xsd">
+
+  <identificacao>
+    <tipo>Lei</tipo>
+    <numero>6406</numero>
+    <data>2023-09-18</data>
+    <ementa>Institui o Selo Amazonas Amigo do Autista, que dispõe sobre medidas que garantam a proteção e direitos das pessoas com Transtorno do Espectro Autista (TEA) e seus familiares, nos Municípios do Estado do Amazonas.</ementa>
+  </identificacao>
+
+  <origem>
+    <uf>AM</uf>
+    <fonte>Assembleia Legislativa do Estado do Amazonas</fonte>
+  </origem>
+
+  <textoArticulado>
+    <epigrafe>LEI Nº 6.406, DE 18 DE SETEMBRO DE 2023</epigrafe>
+    <ementa>Institui o Selo Amazonas Amigo do Autista, que dispõe sobre medidas que garantam a proteção e direitos das pessoas com Transtorno do Espectro Autista (TEA) e seus familiares, nos Municípios do Estado.</ementa>
+
+    <corpo>
+
+      <artigo id="art1">
+        <titulo>Art. 1º</titulo>
+        <texto>Fica instituído o Selo <i>Amazonas Amigo do Autista</i>, com a finalidade de estimular os municípios interessados a adotarem medidas que incentivem a proteção e direitos das pessoas com Transtorno do Espectro Autista (TEA) e seus familiares, nos Municípios do Estado do Amazonas.</texto>
+        <paragrafo tipo="unico">
+          <texto>A iniciativa privada e/ou entidades poderão participarem em parceria com o Poder Público.</texto>
+        </paragrafo>
+      </artigo>
+
+      <artigo id="art2">
+        <titulo>Art. 2º</titulo>
+        <texto>Para aderir ao Selo, o município deve apresentar plano de ação e projeto que contemple melhores condições para as pessoas com Transtorno do Espectro Autista (TEA).</texto>
+      </artigo>
+
+      <artigo id="art3">
+        <titulo>Art. 3º</titulo>
+        <texto>Caberá ao Poder Executivo a edição de normas complementares para disciplinar os aspectos desta Lei que necessitem de regulamentação.</texto>
+      </artigo>
+
+      <artigo id="art4">
+        <titulo>Art. 4º</titulo>
+        <texto>O município detentor do Selo <i>Amazonas Amigo do Autista</i> poderá utilizá-lo em suas peças publicitárias.</texto>
+      </artigo>
+
+      <artigo id="art5">
+        <titulo>Art. 5º</titulo>
+        <texto>Esta Lei entra em vigor na data de sua publicação.</texto>
+      </artigo>
+
+    </corpo>
+
+    <assinatura>
+      <autoridade cargo="Presidente da Assembleia Legislativa do Estado do Amazonas">[Assinado Digitalmente]</autoridade>
+      <local>Manaus</local>
+      <data>2023-09-18</data>
+    </assinatura>
+
+  </textoArticulado>
+</lei>
