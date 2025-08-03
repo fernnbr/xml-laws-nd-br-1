@@ -1,0 +1,83 @@
+<!-- DISPÕE SOBRE A CRIAÇÃO DO SELO “EMPRESA AMIGA DOS AUTISTAS E PORTADORES DO TRANSTORNO DE ESPECTRO AUTISTA E TRANSTORNO DE DÉFICIT DE ATENÇÃO (TDAH)” E DÁ OUTRAS PROVIDÊNCIAS -->
+
+<lei xmlns="http://www.lexml.gov.br/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://www.lexml.gov.br/schema/1.0/lexml.xsd">
+
+  <identificacao>
+    <tipo>Lei</tipo>
+    <numero>5100</numero>
+    <data>2020-01-14</data>
+    <ementa>Dispõe sobre a criação do selo “Empresa Amiga dos Autistas e Portadores de TDAH”.</ementa>
+  </identificacao>
+
+  <origem>
+    <uf>AM</uf>
+    <fonte>Assembleia Legislativa do Estado do Amazonas</fonte>
+    <!-- Caso possua número ou data de publicação em DOE, incluir aqui -->
+  </origem>
+
+  <textoArticulado>
+    <epigrafe>LEI Nº 5.100, DE 14 DE JANEIRO DE 2020</epigrafe>
+    <ementa>Dispõe sobre a criação do selo Empresa Amiga dos Autistas e Portadores de TDAH.</ementa>
+
+    <corpo>
+
+      <artigo id="art1">
+        <titulo>Art. 1º</titulo>
+        <texto>Fica instituído, no âmbito do Estado do Amazonas, o selo <i>Empresa Amiga dos Autistas e Portadores de TDAH</i>, destinado aos estabelecimentos empresariais que adotem política interna de inserção, no mercado de trabalho, de pessoas com Transtorno do Espectro Autista e Transtorno de Déficit de Atenção com Hiperatividade – TDAH.</texto>
+      </artigo>
+
+      <artigo id="art2">
+        <titulo>Art. 2º</titulo>
+        <texto>Para fins de aplicação desta Lei, entende-se como pessoa com Transtorno do Espectro Autista aquela definida no art. 1º, § 1º, incisos I e II, da Lei Federal nº 12.764, de 27 de dezembro de 2012.</texto>
+      </artigo>
+
+      <artigo id="art3">
+        <titulo>Art. 3º</titulo>
+        <texto>Serão consideradas iniciativas empresariais favoráveis à inclusão das pessoas com Autismo e com Transtorno de Déficit de Atenção com Hiperatividade – TDAH, entre outras:</texto>
+        <inciso id="art3.i">a reserva de postos de trabalho específicos;</inciso>
+        <inciso id="art3.ii">a capacitação para o exercício de funções de maior remuneração; e</inciso>
+        <inciso id="art3.iii">a promoção ou patrocínio de eventos culturais dirigidos a esse segmento.</inciso>
+      </artigo>
+
+      <artigo id="art4">
+        <titulo>Art. 4º</titulo>
+        <texto>São objetivos desta Lei:</texto>
+        <inciso id="art4.i">enaltecer e homenagear os estabelecimentos empresariais que promovam destacadamente a inserção, no seu quadro de empregados, de pessoas com Transtorno do Espectro Autista e Transtorno de Déficit de Atenção com Hiperatividade – TDAH;</inciso>
+        <inciso id="art4.ii">difundir a importância da adaptação nas empresas para a inserção dos autistas e TDAH no quadro de funcionários.</inciso>
+      </artigo>
+
+      <artigo id="art5">
+        <titulo>Art. 5º</titulo>
+        <texto>A premiação será concedida pelo Governador do Estado, ouvindo a Secretaria Estadual para Inclusão da Pessoa com Deficiência – SEID/AM.</texto>
+      </artigo>
+
+      <artigo id="art6">
+        <titulo>Art. 6º</titulo>
+        <texto>O estabelecimento detentor do selo <i>Empresa Amiga dos Autistas e Portadores de TDAH</i> poderá utilizá-lo em suas peças publicitárias.</texto>
+        <paragrafo tipo="unico">
+          <texto>O prazo de participação e uso publicitário do selo … será de 2 (dois) anos, podendo ser renovado por iguais períodos, sempre condicionado a outras iniciativas que venham a ser adotadas pela empresa.</texto>
+        </paragrafo>
+      </artigo>
+
+      <artigo id="art7">
+        <titulo>Art. 7º</titulo>
+        <texto>O Poder Executivo regulamentará a presente Lei no que couber.</texto>
+      </artigo>
+
+      <artigo id="art8">
+        <titulo>Art. 8º</titulo>
+        <texto>Esta Lei entra em vigor na data de sua publicação.</texto>
+      </artigo>
+
+    </corpo>
+
+    <assinatura>
+      <autoridade cargo="Presidente da Assembleia Legislativa do Amazonas">[assinado digitalmente]</autoridade>
+      <local>Manaus</local>
+      <data>2020-01-14</data>
+    </assinatura>
+
+  </textoArticulado>
+</lei>
