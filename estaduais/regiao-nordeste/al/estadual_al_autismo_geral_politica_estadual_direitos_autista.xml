@@ -1,0 +1,141 @@
+<!-- INSTITUI A POLÍTICA ESTADUAL DE PROTEÇÃO DOS DIREITOS DA PESSOA COM TRANSTORNO DO ESPECTRO AUTISTA -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<lei xmlns="http://www.lexml.gov.br/namespace/lexml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lexml.gov.br/namespace/lexml http://www.lexml.gov.br/schema/3.0/lexml.xsd">
+  <identificacao>
+    <tipo>Lei</tipo>
+    <numero>7874</numero>
+    <data>2017-03-21</data>
+    <titulo>Institui a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista.</titulo>
+    <jurisdicao>Estado de Alagoas</jurisdicao>
+    <casa_legislativa>Assembleia Legislativa do Estado de Alagoas</casa_legislativa>
+    <autor>Deputada Jó Pereira</autor>
+  </identificacao>
+
+  <ementa>
+    Institui a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista.
+  </ementa>
+
+  <textoArticulado>
+    <corpo>
+
+      <artigo id="art1">
+        <titulo>Art. 1º</titulo>
+        <texto>A pessoa com transtorno do espectro autista é considerada pessoa com deficiência, para todos os efeitos legais.</texto>
+        <paragrafo tipo="paragrafo" numero="único">
+          <rotulo>Parágrafo único.</rotulo>
+          <texto>Para os efeitos desta Lei, é considerada pessoa com transtorno do espectro autista aquela portadora de síndrome clínica caracterizada na forma dos seguintes incisos:</texto>
+          <subparagrafo tipo="inciso" numero="I">
+            <texto>deficiência persistente e clinicamente significativa da comunicação e da interação sociais, manifestada por deficiência marcada de comunicação verbal e não verbal usada para interação social; ausência de reciprocidade social; falência em desenvolver e manter relações apropriadas ao seu nível de desenvolvimento;</texto>
+          </subparagrafo>
+          <subparagrafo tipo="inciso" numero="II">
+            <texto>padrões restritivos e repetitivos de comportamentos, interesses e atividades, manifestados por comportamentos motores ou verbais estereotipados ou por comportamentos sensoriais incomuns; excessiva aderência a rotinas e padrões de comportamento ritualizados; interesses restritos e fixos.</texto>
+          </subparagrafo>
+        </paragrafo>
+      </artigo>
+
+      <artigo id="art2">
+        <titulo>Art. 2º</titulo>
+        <texto>É garantido à pessoa com transtorno do espectro autista o direito à saúde no âmbito do sistema de saúde público e privado no Estado de Alagoas, respeitadas as suas especificidades.</texto>
+        <paragrafo tipo="paragrafo" numero="único">
+          <rotulo>Parágrafo único.</rotulo>
+          <texto>À Secretaria de Estado da Saúde compete:</texto>
+          <subparagrafo tipo="inciso" numero="I">
+            <texto>promover a qualificação e a articulação das ações e dos serviços de saúde para assistência adequada das pessoas com transtorno do espectro autista, para garantir:</texto>
+            <alinea letra="a">
+              <texto>o cuidado integral no âmbito da atenção básica, especializada e hospitalar;</texto>
+            </alinea>
+            <alinea letra="b">
+              <texto>a ampliação e o fortalecimento da oferta de serviços de cuidados em saúde bucal das pessoas com espectro autista na atenção básica, especializada e hospitalar;</texto>
+            </alinea>
+            <alinea letra="c">
+              <texto>a qualificação e o fortalecimento da rede de atenção psicossocial e da rede de cuidados de saúde da pessoa com deficiência no atendimento das pessoas com o transtorno do espectro autista, que envolva diagnóstico diferencial, estimulação precoce, habilitação, reabilitação e outros procedimentos definidos pelo projeto terapêutico singular;</texto>
+            </alinea>
+          </subparagrafo>
+          <subparagrafo tipo="inciso" numero="II">
+            <texto>garantir a disponibilidade de medicamentos incorporados aos hospitais necessários ao tratamento de pessoas com transtorno do espectro autista;</texto>
+          </subparagrafo>
+          <subparagrafo tipo="inciso" numero="III">
+            <texto>apoiar e promover processos de educação permanente e de qualificação técnica dos profissionais das redes de saúde quanto ao atendimento das pessoas com o transtorno do espectro autista;</texto>
+          </subparagrafo>
+          <subparagrafo tipo="inciso" numero="IV">
+            <texto>apoiar pesquisas que visem ao aprimoramento da atenção à saúde e à melhoria da qualidade de vida das pessoas com transtorno do espectro autista;</texto>
+          </subparagrafo>
+          <subparagrafo tipo="inciso" numero="V">
+            <texto>adotar diretrizes clínicas e terapêuticas com orientações referentes ao cuidado à saúde das pessoas com transtorno do espectro autista, observando suas especificidades de acessibilidade, de comunicação e atendimento.</texto>
+          </subparagrafo>
+        </paragrafo>
+      </artigo>
+      <artigo id="art3">
+        <titulo>Art. 3º</titulo>
+        <texto>É garantido à pessoa com transtorno do espectro autista o direito à educação, respeitadas suas especificidades, nos termos da legislação federal vigente.</texto>
+        <paragrafo tipo="paragrafo" numero="único">
+          <rotulo>Parágrafo único.</rotulo>
+          <texto>À Secretaria de Estado da Educação compete:</texto>
+          <subparagrafo tipo="inciso" numero="I">
+            <texto>assegurar o atendimento educacional especializado ao educando com transtorno do espectro autista, prioritariamente na rede regular de ensino, com o apoio de profissionais especializados, com capacitação específica;</texto>
+          </subparagrafo>
+          <subparagrafo tipo="inciso" numero="II">
+            <texto>prover formação continuada para os professores da rede pública de ensino, visando à melhoria da qualidade do atendimento às necessidades educacionais dos educandos com transtorno do espectro autista;</texto>
+          </subparagrafo>
+          <subparagrafo tipo="inciso" numero="III">
+            <texto>assegurar que as diretrizes curriculares sejam adaptadas às necessidades do estudante com transtorno do espectro autista, respeitando seu desenvolvimento e processo de aprendizagem.</texto>
+          </subparagrafo>
+        </paragrafo>
+      </artigo>
+
+      <artigo id="art4">
+        <titulo>Art. 4º</titulo>
+        <texto>É garantido à pessoa com transtorno do espectro autista o direito ao trabalho, nos termos da legislação federal vigente.</texto>
+        <paragrafo tipo="paragrafo" numero="único">
+          <rotulo>Parágrafo único.</rotulo>
+          <texto>Ao Poder Executivo compete:</texto>
+          <subparagrafo tipo="inciso" numero="I">
+            <texto>adotar políticas públicas de incentivo à inclusão de pessoas com transtorno do espectro autista no mercado de trabalho, respeitadas suas habilidades e competências;</texto>
+          </subparagrafo>
+          <subparagrafo tipo="inciso" numero="II">
+            <texto>incentivar empresas públicas e privadas a contratar pessoas com transtorno do espectro autista, promovendo campanhas de conscientização e inclusão.</texto>
+          </subparagrafo>
+        </paragrafo>
+      </artigo>
+      
+      <artigo id="art5">
+        <titulo>Art. 5º</titulo>
+        <texto>É garantido à pessoa com transtorno do espectro autista o direito à assistência social e à proteção social especial, nos termos da legislação federal vigente.</texto>
+        <paragrafo tipo="paragrafo" numero="único">
+          <rotulo>Parágrafo único.</rotulo>
+          <texto>À Secretaria de Estado da Assistência e Desenvolvimento Social compete:</texto>
+          <subparagrafo tipo="inciso" numero="I">
+            <texto>desenvolver ações voltadas à promoção da inclusão da pessoa com transtorno do espectro autista nos programas sociais;</texto>
+          </subparagrafo>
+          <subparagrafo tipo="inciso" numero="II">
+            <texto>garantir o acesso da pessoa com transtorno do espectro autista aos serviços de proteção social básica e especial, por meio da rede socioassistencial do Estado.</texto>
+          </subparagrafo>
+        </paragrafo>
+      </artigo>
+            <artigo id="art6">
+        <titulo>Art. 6º</titulo>
+        <texto>Fica instituído o uso do símbolo mundial da conscientização do transtorno do espectro autista, denominado “fita quebra-cabeça”, para identificação de prioridades de atendimento, nos termos da legislação vigente.</texto>
+      </artigo>
+
+      <artigo id="art7">
+        <titulo>Art. 7º</titulo>
+        <texto>As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias.</texto>
+      </artigo>
+
+      <artigo id="art8">
+        <titulo>Art. 8º</titulo>
+        <texto>Esta Lei entra em vigor na data de sua publicação.</texto>
+      </artigo>
+
+    </corpo>
+    <assinatura>
+      <texto>Palácio Marechal Floriano Peixoto, em Maceió, 21 de março de 2017.</texto>
+      <autoridade cargo="Governador do Estado">Renan Filho</autoridade>
+      <autoridade cargo="Secretário de Estado da Saúde">José Thomaz Nonô</autoridade>
+      <autoridade cargo="Secretário de Estado da Educação">Laura Souza</autoridade>
+      <autoridade cargo="Secretária de Estado da Assistência e Desenvolvimento Social">Adriana Toledo</autoridade>
+    </assinatura>
+  </textoArticulado>
+</lei>
+
