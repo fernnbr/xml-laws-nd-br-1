@@ -1,0 +1,57 @@
+<!-- Institui a identificação de veículo para transporte de pessoas portadoras do Transtorno do Espectro Autista - TEA --> 
+
+<lexml xmlns="http://www.lexml.gov.br/schema/lexml">
+  <documento>
+    <identificacao>
+      <tipo>Lei</tipo>
+      <numero>17889</numero>
+      <data>2024-03-21</data>
+      <esfera>Estadual</esfera>
+      <local>SP</local>
+    </identificacao>
+    <ementa>
+      Institui a identificação de veículo para transporte de pessoas portadoras do Transtorno do Espectro Autista - TEA.
+    </ementa>
+    <texto>
+      <artigo numero="1">
+        <caput>
+          Fica instituída a identificação de veículos que transportem pessoa com Transtorno do Espectro Autista - TEA.
+        </caput>
+        <paragrafo numero="1">
+          A obtenção da identificação de que trata o "caput" depende do cadastramento dos responsáveis pela condução do veículo pelo órgão competente.
+        </paragrafo>
+        <paragrafo numero="2">
+          A identificação de que trata o "caput" consiste em um adesivo com símbolo de identificação de que o veículo transporta pessoas com TEA.
+        </paragrafo>
+      </artigo>
+      <artigo numero="2">
+        <caput>Vetado.</caput>
+      </artigo>
+      <artigo numero="3">
+        <caput>Esta lei entra em vigor na data de sua publicação.</caput>
+      </artigo>
+    </texto>
+    <assinaturas>
+      <autoridade>
+        <nome>Felício Ramuth</nome>
+        <cargo>Vice-Governador em exercício no cargo de Governador do Estado de São Paulo</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Marcos da Costa</nome>
+        <cargo>Secretário dos Direitos da Pessoa com Deficiência</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Caio Paes de Andrade</nome>
+        <cargo>Secretário de Gestão e Governo Digital</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Gilberto Kassab</nome>
+        <cargo>Secretário de Governo e Relações Institucionais</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Arthur Luis Pinho de Lima</nome>
+        <cargo>Secretário-Chefe da Casa Civil</cargo>
+      </autoridade>
+    </assinaturas>
+  </documento>
+</lexml>

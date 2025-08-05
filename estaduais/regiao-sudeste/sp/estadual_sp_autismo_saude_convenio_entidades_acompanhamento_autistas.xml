@@ -1,0 +1,54 @@
+<!-- Autoriza o Poder Executivo a estabelecer convênios com diferentes entidades especializadas no tratamento e acompanhamento de crianças autistas e dá outras providências --> 
+
+<LexML xmlns="http://www.lexml.gov.br/lexml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lexml.gov.br/lexml http://www.lexml.gov.br/schema/lexml.xsd">
+  <Identificacao>
+    <Tipo>Lei</Tipo>
+    <Numero>16749</Numero>
+    <Data>2018-06-07</Data>
+    <Titulo>Autoriza o Poder Executivo a estabelecer convênios com diferentes entidades especializadas no tratamento e acompanhamento de crianças autistas e dá outras providências.</Titulo>
+    <SiglaCasaLegislativa>ALESP</SiglaCasaLegislativa>
+    <Estado>SP</Estado>
+    <Pais>BR</Pais>
+    <Autor>Assembleia Legislativa do Estado de São Paulo</Autor>
+    <Ementa>Autoriza o Poder Executivo a firmar convênios com entidades especializadas no atendimento a crianças com Transtorno do Espectro Autista.</Ementa>
+  </Identificacao>
+
+  <Texto>
+    <Artigo numero="1">
+      <Caput>Fica o Poder Executivo autorizado a estabelecer convênios com diferentes entidades especializadas no tratamento e acompanhamento de crianças autistas.</Caput>
+    </Artigo>
+
+    <Artigo numero="2">
+      <Caput>Os convênios estabelecidos conforme disposto no artigo 1º objetivam o atendimento das famílias carentes que tenham entes diagnosticados com autismo.</Caput>
+    </Artigo>
+
+    <Artigo numero="3">
+      <Caput>As despesas decorrentes da execução desta lei correrão à conta de dotações orçamentárias próprias, suplementadas se necessário.</Caput>
+    </Artigo>
+
+    <Artigo numero="4">
+      <Caput>O Poder Executivo regulamentará esta lei no prazo de 90 (noventa) dias, contados a partir da data de sua publicação.</Caput>
+    </Artigo>
+
+    <Artigo numero="5">
+      <Caput>Esta lei entra em vigor na data de sua publicação.</Caput>
+    </Artigo>
+  </Texto>
+
+  <Assinaturas>
+    <Autoridade>MÁRCIO FRANÇA - Governador do Estado de São Paulo</Autoridade>
+    <Autoridade>Linamara Rizzo Battistella - Secretária dos Direitos da Pessoa com Deficiência</Autoridade>
+    <Autoridade>Marco Antonio Zago - Secretário da Saúde</Autoridade>
+    <Autoridade>Claudio Valverde Santos - Secretário-Chefe da Casa Civil</Autoridade>
+  </Assinaturas>
+
+  <Publicacao>
+    <Data>2018-06-07</Data>
+    <Fonte>Assessoria Técnica da Casa Civil</Fonte>
+  </Publicacao>
+
+  <Retificacao>
+    <Data>2018-06-08</Data>
+    <Descricao>No referendo, leia-se como segue e não como constou: Marco Antonio Zago - Secretário da Saúde.</Descricao>
+  </Retificacao>
+</LexML>

@@ -1,0 +1,48 @@
+<!-- Dispõe sobre a criação do Programa de diagnóstico e apoio aos alunos com dislexia e transtorno do déficit de atenção com hiperatividade (TDAH) na rede estadual de ensino e adota outras providências --> 
+
+<LexML xmlns="http://www.lexml.gov.br/lexml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lexml.gov.br/lexml http://www.lexml.gov.br/schema/lexml.xsd">
+  <Identificacao>
+    <Tipo>Lei</Tipo>
+    <Numero>17465</Numero>
+    <Data>2021-12-03</Data>
+    <Titulo>Dispõe sobre a criação do Programa de diagnóstico e apoio aos alunos com dislexia e transtorno do déficit de atenção com hiperatividade (TDAH) na rede estadual de ensino e adota outras providências.</Titulo>
+    <SiglaCasaLegislativa>ALESP</SiglaCasaLegislativa>
+    <Estado>SP</Estado>
+    <Pais>BR</Pais>
+    <Autor>Assembleia Legislativa do Estado de São Paulo</Autor>
+    <Ementa>Autoriza o Governo do Estado de São Paulo a implantar programa de diagnóstico e apoio aos alunos com dislexia e TDAH na rede estadual de ensino.</Ementa>
+  </Identificacao>
+
+  <Texto>
+    <Artigo numero="1">
+      <Caput>Fica autorizado o Governo do Estado a implantar o Programa de diagnóstico e apoio aos alunos com dislexia e transtorno do déficit de atenção com hiperatividade (TDAH) na rede estadual de ensino.</Caput>
+      <Paragrafo tipo="único">Vetado.</Paragrafo>
+    </Artigo>
+
+    <Artigo numero="2">
+      <Caput>Vetado.</Caput>
+    </Artigo>
+
+    <Artigo numero="3">
+      <Caput>Vetado.</Caput>
+    </Artigo>
+
+    <Artigo numero="4">
+      <Caput>Esta lei entra em vigor na data de sua publicação.</Caput>
+    </Artigo>
+  </Texto>
+
+  <Assinaturas>
+    <Autoridade>RODRIGO GARCIA - Vice-Governador em exercício no cargo de Governador</Autoridade>
+    <Autoridade>Célia Carmargo Leão Edelmuth - Secretária dos Direitos da Pessoa com Deficiência</Autoridade>
+    <Autoridade>Rossieli Soares da Silva - Secretário da Educação</Autoridade>
+    <Autoridade>Marina Amadeu Batista Bragante - Secretária Executiva (Desenvolvimento Econômico)</Autoridade>
+    <Autoridade>Jean Carlo Gorinchteyn - Secretário da Saúde</Autoridade>
+    <Autoridade>Cauê Macris - Secretário-Chefe da Casa Civil</Autoridade>
+  </Assinaturas>
+
+  <Publicacao>
+    <Data>2021-12-03</Data>
+    <Fonte>Subsecretaria de Gestão Legislativa da Casa Civil</Fonte>
+  </Publicacao>
+</LexML>

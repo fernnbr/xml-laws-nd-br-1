@@ -1,0 +1,87 @@
+<!-- Altera a Lei n° 17.158, de 18 de setembro de 2019, que dispõe sobre a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista - TEA --> 
+
+<lexml xmlns="http://www.lexml.gov.br/schema/lexml">
+  <documento>
+    <identificacao>
+      <tipo>Lei</tipo>
+      <numero>17798</numero>
+      <data>2023-10-06</data>
+      <esfera>Estadual</esfera>
+      <local>SP</local>
+    </identificacao>
+    <ementa>
+      Altera a Lei n° 17.158, de 18 de setembro de 2019, que dispõe sobre a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista - TEA.
+    </ementa>
+    <texto>
+      <artigo numero="1">
+        <caput>
+          A Lei n° 17.158, de 18 de setembro de 2019, passa a vigorar com as seguintes alterações:
+        </caput>
+        <inciso numero="I">
+          Vetado.
+        </inciso>
+        <inciso numero="II">
+          o artigo 3° fica incluído dos seguintes §§ 2°, 3° e 4°, e o parágrafo único fica reordenado como § 1°, na seguinte conformidade:
+          <dispositivo>
+            <artigo numero="3">
+              <paragrafo numero="1">
+                Em casos de comprovada necessidade, a pessoa com TEA incluída nas classes comuns de ensino regular, nos termos do inciso IV do artigo 2°, terá direito a acompanhante especializado.
+              </paragrafo>
+              <paragrafo numero="2">Vetado.</paragrafo>
+              <paragrafo numero="3">Vetado.</paragrafo>
+              <paragrafo numero="4">
+                O acompanhante especializado trabalhará, primordialmente, na função de inserção da pessoa com deficiência no ambiente escolar, devendo saber manejar e atuar frente às dificuldades, bem como no que diz respeito às atividades escolares, auxiliando o aluno nas interações sociais, no ensino de maneira geral e nas aplicações didáticas.
+              </paragrafo>
+            </artigo>
+          </dispositivo>
+        </inciso>
+        <inciso numero="III">Vetado.</inciso>
+        <inciso numero="IV">
+          o artigo 6° passa a vigorar com a seguinte redação:
+          <dispositivo>
+            <artigo numero="6">
+              <caput>
+                O gestor escolar, ou autoridade competente, que recusar a matrícula de aluno com TEA, ou qualquer outro tipo de deficiência, será punido com multa de 3 (três) a 20 (vinte) salários mínimos.
+              </caput>
+              <paragrafo numero="1">
+                Fica vedada a limitação de alunos autistas por sala de aula, por ciclo educacional, ou qualquer outro critério, nos estabelecimentos públicos e privados;
+              </paragrafo>
+              <paragrafo numero="2">
+                Em caso de reincidência, apurada por processo administrativo, assegurado o contraditório e a ampla defesa, haverá a perda do cargo.
+              </paragrafo>
+            </artigo>
+          </dispositivo>
+        </inciso>
+      </artigo>
+      <artigo numero="2">
+        <caput>Esta lei entra em vigor na data de sua publicação.</caput>
+      </artigo>
+    </texto>
+    <assinaturas>
+      <autoridade>
+        <nome>Tarcísio de Freitas</nome>
+        <cargo>Governador do Estado de São Paulo</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Marcos da Costa</nome>
+        <cargo>Secretário dos Direitos da Pessoa com Deficiência</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Eleuses Paiva</nome>
+        <cargo>Secretário da Saúde</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Renato Feder</nome>
+        <cargo>Secretário da Educação</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Gilberto Kassab</nome>
+        <cargo>Secretário de Governo e Relações Institucionais</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Arthur Luis Pinho de Lima</nome>
+        <cargo>Secretário-Chefe da Casa Civil</cargo>
+      </autoridade>
+    </assinaturas>
+  </documento>
+</lexml>

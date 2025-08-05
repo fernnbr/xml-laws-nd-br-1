@@ -1,0 +1,88 @@
+<!-- Dispõe sobre diretrizes para o estímulo do turismo acessível e inclusivo para pessoas com Transtorno do Espectro Autista - TEA - no Estado e dá outras providências -->
+
+<lexml xmlns="http://www.lexml.gov.br/schema/lexml">
+  <documento>
+    <identificacao>
+      <tipo>Lei</tipo>
+      <numero>18063</numero>
+      <data>2024-12-18</data>
+      <esfera>Estadual</esfera>
+      <local>SP</local>
+    </identificacao>
+    <ementa>
+      Dispõe sobre diretrizes para o estímulo do turismo acessível e inclusivo para pessoas com Transtorno do Espectro Autista - TEA - no Estado e dá outras providências.
+    </ementa>
+    <texto>
+      <artigo numero="1">
+        <caput>
+          Ficam estabelecidas diretrizes para o estímulo do turismo acessível e inclusivo para pessoas com Transtorno do Espectro Autista - TEA - no Estado, visando promover a inclusão, a acessibilidade e a qualidade de vida das pessoas com TEA e seus familiares.
+        </caput>
+      </artigo>
+      <artigo numero="2">
+        <caput>
+          As diretrizes incluirão medidas para tornar os destinos turísticos e serviços acessíveis às pessoas com TEA, tais como:
+        </caput>
+        <inciso numero="I">
+          Vetado;
+        </inciso>
+        <inciso numero="II">
+          Promoção de atividades turísticas que considerem as características e preferências das pessoas com TEA, de forma a proporcionar experiências positivas e enriquecedoras;
+        </inciso>
+        <inciso numero="III">
+          Capacitação de profissionais do setor turístico em relação ao TEA e práticas inclusivas.
+        </inciso>
+      </artigo>
+      <artigo numero="3">
+        <caput>
+          O Poder Executivo Estadual, em colaboração com o setor turístico, organizações da sociedade civil e entidades especializadas, poderá desenvolver políticas, programas e ações que promovam o turismo acessível e inclusivo para pessoas com TEA.
+        </caput>
+      </artigo>
+      <artigo numero="4">
+        <caput>
+          Vetado.
+        </caput>
+      </artigo>
+      <artigo numero="5">
+        <caput>
+          Vetado:
+        </caput>
+        <inciso numero="I">Vetado;</inciso>
+        <inciso numero="II">Vetado;</inciso>
+        <inciso numero="III">Vetado;</inciso>
+        <inciso numero="IV">Vetado.</inciso>
+      </artigo>
+      <artigo numero="6">
+        <caput>
+          O Poder Executivo Estadual poderá estabelecer parcerias com o setor privado e outras esferas de governo para a implementação das diretrizes e campanhas mencionadas nesta lei.
+        </caput>
+      </artigo>
+      <artigo numero="7">
+        <caput>
+          Esta lei entra em vigor na data de sua publicação.
+        </caput>
+      </artigo>
+    </texto>
+    <assinaturas>
+      <autoridade>
+        <nome>Tarcísio de Freitas</nome>
+        <cargo>Governador do Estado de São Paulo</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Roberto Alves de Lucena</nome>
+        <cargo>Secretário de Turismo e Viagens</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Marcos da Costa</nome>
+        <cargo>Secretário dos Direitos da Pessoa com Deficiência</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Gilberto Kassab</nome>
+        <cargo>Secretário de Governo e Relações Institucionais</cargo>
+      </autoridade>
+      <autoridade>
+        <nome>Arthur Luis Pinho de Lima</nome>
+        <cargo>Secretário-Chefe da Casa Civil</cargo>
+      </autoridade>
+    </assinaturas>
+  </documento>
+</lexml>

@@ -1,0 +1,52 @@
+<!-- Dispõe sobre a emissão da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista - CIPTEA, no âmbito do Estado de São Paulo --> 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<lexml xmlns="http://www.lexml.gov.br/schema/lexml"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.lexml.gov.br/schema/lexml http://www.lexml.gov.br/schema/lexml.xsd">
+
+  <identificacao>
+    <documento>
+      <tipo>Lei</tipo>
+      <numero>17651</numero>
+      <data>2023-03-17</data>
+      <ementa>Dispõe sobre a emissão da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista - CIPTEA, no âmbito do Estado de São Paulo.</ementa>
+      <siglaCasaLegislativa>ALESP</siglaCasaLegislativa>
+      <local>SÃO PAULO</local>
+      <projetoLei>
+        <numero>702</numero>
+        <ano>2021</ano>
+        <autor>Deputados Murilo Félix - PODE e Altair Moraes - REPUBLICANOS</autor>
+      </projetoLei>
+    </documento>
+  </identificacao>
+
+  <texto>
+    <artigo id="art1">
+      <titulo>Artigo 1º</titulo>
+      <conteudo>Estabelece que os órgãos responsáveis pela execução da Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista, no âmbito do Estado de São Paulo, emitirão, gratuitamente, a Carteira de Identificação da Pessoa com Transtorno do Espectro Autista - CIPTEA, na forma da Lei Federal nº 13.977, de 8 de janeiro de 2020.</conteudo>
+    </artigo>
+
+    <artigo id="art2">
+      <titulo>Artigo 2º</titulo>
+      <conteudo>Ficam os órgãos competentes pela emissão da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista - CIPTEA proibidos de exigir, como única forma de documentação habilitada para expedição da CIPTEA, a apresentação da Carteira de Identidade com o Código da Classificação Internacional de Doenças - CID, bastando para a sua confecção a apresentação dos documentos elencados na Lei Federal nº 13.977, de 8 de janeiro de 2020.</conteudo>
+    </artigo>
+
+    <artigo id="art3">
+      <titulo>Artigo 3º</titulo>
+      <conteudo>As despesas decorrentes da aplicação desta lei correrão à conta de dotações orçamentárias próprias, suplementadas, se necessário.</conteudo>
+    </artigo>
+
+    <artigo id="art4">
+      <titulo>Artigo 4º</titulo>
+      <conteudo>Esta lei entra em vigor na data de sua publicação.</conteudo>
+    </artigo>
+  </texto>
+
+  <assinaturas>
+    <autoridade>Governador: Tarcísio de Freitas</autoridade>
+    <autoridade>Secretário dos Direitos da Pessoa com Deficiência: Marcos da Costa</autoridade>
+    <autoridade>Secretário de Governo e Relações Institucionais: Gilberto Kassab</autoridade>
+    <autoridade>Secretário-Chefe da Casa Civil: Arthur Luis Pinho de Lima</autoridade>
+  </assinaturas>
+</lexml>

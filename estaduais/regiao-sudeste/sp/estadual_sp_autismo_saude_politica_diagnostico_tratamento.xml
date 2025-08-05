@@ -1,0 +1,60 @@
+<!-- Dispõe sobre diretrizes para a política de diagnóstico precoce e tratamento do Transtorno do Espectro Autista no sistema de saúde -->
+
+<LexML xmlns="http://www.lexml.gov.br/lexml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lexml.gov.br/lexml http://www.lexml.gov.br/schema/lexml.xsd">
+  <Identificacao>
+    <Tipo>Lei</Tipo>
+    <Numero>15668</Numero>
+    <Data>2015-01-12</Data>
+    <Titulo>Dispõe sobre diretrizes para a política de diagnóstico precoce e tratamento dos sintomas do Transtorno do Espectro Autista no âmbito do sistema de saúde.</Titulo>
+    <SiglaCasaLegislativa>ALESP</SiglaCasaLegislativa>
+    <Estado>SP</Estado>
+    <Pais>BR</Pais>
+    <Autor>Assembleia Legislativa do Estado de São Paulo</Autor>
+    <Ementa>Estabelece diretrizes para diagnóstico precoce e tratamento de pessoas com Transtorno do Espectro Autista (TEA) no Sistema de Saúde do Estado de São Paulo.</Ementa>
+  </Identificacao>
+
+  <Texto>
+    <Artigo numero="1">
+      <Caput>O Sistema de Saúde prestará atenção integral ao diagnóstico precoce e ao tratamento dos sintomas do Transtorno do Espectro Autista.</Caput>
+      <Paragrafo tipo="único">
+        A atenção integral de que trata o “caput”, tendo como objetivo o investimento no ser humano autista, consistirá nas seguintes diretrizes:
+        <Inciso numero="1">Desenvolvimento de programas e ações que visem diagnosticar precocemente o transtorno, de modo a permitir a indicação antecipada do tratamento;</Inciso>
+        <Inciso numero="2">Envolvimento e participação da família da pessoa autista, assim como da sociedade civil, na definição e controle das ações e serviços de saúde, nos termos da Constituição Federal, da Constituição Estadual e do Código de Saúde do Estado de São Paulo;</Inciso>
+        <Inciso numero="3">Apoio à pesquisa e ao desenvolvimento tecnológico e científico voltados ao tratamento autista, tanto no aspecto da detecção precoce, como no seu tratamento de base terapêutica e medicamentosa;</Inciso>
+        <Inciso numero="4">Disponibilização de equipes multi e interdisciplinares para tratamento médico nas áreas de pediatria, neurologia, psiquiatria e odontologia; tratamento não-médico nas áreas de psicologia, fonoaudiologia, pedagogia, terapia ocupacional, fisioterapia e orientação familiar; ensino profissionalizante e de inclusão social;</Inciso>
+        <Inciso numero="5">Direito à medicação;</Inciso>
+        <Inciso numero="6">Desenvolvimento de instrumentos de informação, análise, avaliação e controle dos serviços de saúde, abertos à participação da sociedade.</Inciso>
+      </Paragrafo>
+    </Artigo>
+
+    <Artigo numero="2">
+      <Caput>O Poder Público poderá firmar convênios com entidades e clínicas afins, visando o repasse de recursos para custeio ou remuneração de serviços.</Caput>
+    </Artigo>
+
+    <Artigo numero="3">
+      <Caput>As ações programáticas relativas ao Transtorno do Espectro Autista, assim como às questões a ela ligadas, serão definidas em normas técnicas a serem elaboradas segundo os critérios e diretrizes estabelecidos nesta lei, garantida a participação de entidades e profissionais envolvidos com a questão, universidades públicas e representantes da sociedade civil.</Caput>
+    </Artigo>
+
+    <Artigo numero="4">
+      <Caput>Vetado.</Caput>
+    </Artigo>
+
+    <Artigo numero="5">
+      <Caput>As despesas decorrentes da aplicação desta lei correrão à conta das dotações orçamentárias próprias.</Caput>
+    </Artigo>
+
+    <Artigo numero="6">
+      <Caput>Esta lei entra em vigor na data de sua publicação.</Caput>
+    </Artigo>
+  </Texto>
+
+  <Assinaturas>
+    <Autoridade>SAMUEL MOREIRA - Presidente da Assembleia Legislativa</Autoridade>
+    <Autoridade>Rodrigo del Nero - Secretário Geral Parlamentar</Autoridade>
+  </Assinaturas>
+
+  <Publicacao>
+    <Data>2015-01-12</Data>
+    <Fonte>Secretaria da Assembleia Legislativa do Estado de São Paulo</Fonte>
+  </Publicacao>
+</LexML>

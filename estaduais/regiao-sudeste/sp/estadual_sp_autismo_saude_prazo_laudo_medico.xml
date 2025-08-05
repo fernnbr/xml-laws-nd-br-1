@@ -1,0 +1,46 @@
+<!-- Dispõe sobre o prazo de validade do laudo médico pericial que atesta o Transtorno do Espectro Autista - TEA --> 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<lexml xmlns="http://www.lexml.gov.br/schema/lexml"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.lexml.gov.br/schema/lexml http://www.lexml.gov.br/schema/lexml.xsd">
+
+  <identificacao>
+    <documento>
+      <tipo>Lei</tipo>
+      <numero>17669</numero>
+      <data>2023-04-06</data>
+      <ementa>Dispõe sobre o prazo de validade do laudo médico pericial que atesta o Transtorno do Espectro Autista - TEA.</ementa>
+      <siglaCasaLegislativa>ALESP</siglaCasaLegislativa>
+      <local>SÃO PAULO</local>
+      <projetoLei>
+        <numero>665</numero>
+        <ano>2020</ano>
+        <autor>Deputado Paulo Correa Jr - DEM</autor>
+      </projetoLei>
+    </documento>
+  </identificacao>
+
+  <texto>
+    <artigo id="art1">
+      <titulo>Artigo 1º</titulo>
+      <ementa>Validade do laudo médico pericial</ementa>
+      <conteudo>Fica estabelecido que o laudo médico pericial que ateste o Transtorno do Espectro Autista - TEA passa a ter prazo de validade indeterminado.</conteudo>
+      <paragrafo numero="único">O laudo de que trata esta lei poderá ser emitido por profissional da rede de saúde pública ou privada, observados os demais requisitos para a sua emissão estabelecidos na legislação pertinente.</paragrafo>
+    </artigo>
+
+    <artigo id="art2">
+      <titulo>Artigo 2º</titulo>
+      <ementa>Vigência</ementa>
+      <conteudo>Esta lei entra em vigor na data de sua publicação.</conteudo>
+    </artigo>
+  </texto>
+
+  <assinaturas>
+    <autoridade>Governador: TARCÍSIO DE FREITAS</autoridade>
+    <autoridade>Secretário dos Direitos da Pessoa com Deficiência: Marcos da Costa</autoridade>
+    <autoridade>Secretário da Saúde: Eleuses Vieira de Paiva</autoridade>
+    <autoridade>Secretário de Governo e Relações Institucionais: Gilberto Kassab</autoridade>
+    <autoridade>Secretário-Chefe da Casa Civil: Arthur Luis Pinho de Lima</autoridade>
+  </assinaturas>
+</lexml>

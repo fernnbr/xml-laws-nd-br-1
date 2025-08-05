@@ -1,0 +1,84 @@
+<!-- Autoriza a criação de Centros de Referência e Atendimento Especializado às Pessoas com Transtorno do Espectro Autista (TEA) e dá outras disposições -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<lexml xmlns="http://www.lexml.gov.br/schema/lexml"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.lexml.gov.br/schema/lexml http://www.lexml.gov.br/schema/lexml.xsd">
+
+  <identificacao>
+    <documento>
+      <tipo>Lei</tipo>
+      <numero>17744</numero>
+      <data>2023-09-12</data>
+      <ementa>Autoriza a criação de Centros de Referência e Atendimento Especializado às Pessoas com Transtorno do Espectro Autista (TEA) e dá outras disposições.</ementa>
+      <siglaCasaLegislativa>ALESP</siglaCasaLegislativa>
+      <local>SÃO PAULO</local>
+      <retificacao>
+        <data>2023-09-14</data>
+        <descricao>Texto retificado no Diário Oficial do Executivo I de 14/09/2023.</descricao>
+      </retificacao>
+    </documento>
+  </identificacao>
+
+  <texto>
+    <artigo id="art1">
+      <titulo>Artigo 1º</titulo>
+      <ementa>Criação do Centro de Referência</ementa>
+      <conteudo>O Estado fica autorizado a criar o Complexo de Referência da Pessoa com Transtorno do Espectro Autista (TEA), denominado Centro de Referência do Autista.</conteudo>
+    </artigo>
+
+    <artigo id="art2">
+      <titulo>Artigo 2º</titulo>
+      <ementa>Serviços do Centro de Referência</ementa>
+      <conteudo>O Centro de Referência da Pessoa com Transtorno do Espectro Autista promoverá:</conteudo>
+      <inciso numero="I">atendimento psicossocial;</inciso>
+      <inciso numero="II">atendimento médico e agendamento de consultas;</inciso>
+      <inciso numero="III">ações e programas de inclusão em modalidades esportivas;</inciso>
+      <inciso numero="IV">ações de inclusão social;</inciso>
+      <inciso numero="V">ações e programas de informação social sobre o TEA, tendo em vista a educação, a saúde e o trabalho;</inciso>
+      <inciso numero="VI">ações e programas que integrem pessoas com TEA em programas de educação e saúde, além dos seus familiares;</inciso>
+      <inciso numero="VII">atividades em conjunto com entidades que promovam a interação, recuperação e tratamento das pessoas com TEA em terapias com animais;</inciso>
+      <inciso numero="VIII">fonoaudiologia;</inciso>
+      <inciso numero="IX">pediatria;</inciso>
+      <inciso numero="X">fisioterapia;</inciso>
+      <inciso numero="XI">psicologia;</inciso>
+      <inciso numero="XII">neurologia.</inciso>
+    </artigo>
+
+    <artigo id="art3">
+      <titulo>Artigo 3º</titulo>
+      <ementa>Funções adicionais do Centro</ementa>
+      <conteudo>O Centro de Referência da Pessoa com Transtorno do Espectro Autista deverá:</conteudo>
+      <inciso numero="I">realizar estudos e divulgar periodicamente informações e relatórios que envolvam a população a que se refere esta lei;</inciso>
+      <inciso numero="II">auxiliar, com o objetivo de facilitar a utilização dos serviços públicos existentes, por parte da população com TEA.</inciso>
+    </artigo>
+
+    <artigo id="art4">
+      <titulo>Artigo 4º</titulo>
+      <ementa>Parcerias e convênios</ementa>
+      <conteudo>O Centro de Referência da Pessoa com Transtorno do Espectro Autista poderá firmar convênio ou parceria com organizações e instituições para a realização de trabalhos e projetos de desenvolvimento intelectual e motor das pessoas com TEA.</conteudo>
+    </artigo>
+
+    <artigo id="art5">
+      <titulo>Artigo 5º</titulo>
+      <ementa>Recursos financeiros</ementa>
+      <conteudo>As despesas com a execução desta lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.</conteudo>
+    </artigo>
+
+    <artigo id="art6">
+      <titulo>Artigo 6º</titulo>
+      <ementa>Vigência</ementa>
+      <conteudo>Esta lei entra em vigor na data de sua publicação.</conteudo>
+    </artigo>
+  </texto>
+
+  <assinaturas>
+    <autoridade>Governador: TARCÍSIO DE FREITAS</autoridade>
+    <autoridade>Secretário da Saúde: Eleuses Paiva</autoridade>
+    <autoridade>Secretário dos Direitos da Pessoa com Deficiência: Marcos da Costa</autoridade>
+    <autoridade>Secretário de Desenvolvimento Social: Gilberto Nascimento Junior</autoridade>
+    <autoridade>Secretário de Governo e Relações Institucionais: Gilberto Kassab</autoridade>
+    <autoridade>Secretário-Chefe da Casa Civil: Arthur Luis Pinho de Lima</autoridade>
+  </assinaturas>
+</lexml>
+
