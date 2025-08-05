@@ -1,0 +1,48 @@
+<!-- Dispõe sobre a expedição da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista – Ciptea --> 
+
+<lei xmlns="http://www.lexml.gov.br/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://www.lexml.gov.br/schema/1.0/lexml.xsd">
+
+  <identificacao>
+    <tipo>Lei</tipo>
+    <numero>24532</numero>
+    <data>2023-10-23</data>
+    <ementa>Dispõe sobre a expedição da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista – Ciptea.</ementa>
+  </identificacao>
+
+  <origem>
+    <uf>MG</uf>
+    <fonte>Assembleia Legislativa do Estado de Minas Gerais</fonte>
+    <publicacao>
+      <veiculo>Diário do Executivo</veiculo>
+      <data>2023-10-23</data>
+    </publicacao>
+  </origem>
+
+  <textoArticulado>
+    <epigrafe>LEI Nº 24.532, DE 23 DE OUTUBRO DE 2023</epigrafe>
+    <ementa>Dispõe sobre a expedição da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista – Ciptea.</ementa>
+    <corpo>
+
+      <artigo id="art1">
+        <titulo>Art. 1º</titulo>
+        <texto>A Carteira de Identificação da Pessoa com Transtorno do Espectro Autista – Ciptea –, com validade em todo o território nacional conforme legislação federal vigente, será expedida pelo Estado ou por municípios, nos termos de regulamento.</texto>
+      </artigo>
+
+      <artigo id="art2">
+        <titulo>Art. 2º</titulo>
+        <texto>Esta lei entra em vigor na data de sua publicação.</texto>
+      </artigo>
+
+    </corpo>
+
+    <assinatura>
+      <autoridade cargo="Governador do Estado">Romeu Zema Neto</autoridade>
+      <local>Belo Horizonte</local>
+      <data>2023-10-23</data>
+    </assinatura>
+
+  </textoArticulado>
+
+</lei>

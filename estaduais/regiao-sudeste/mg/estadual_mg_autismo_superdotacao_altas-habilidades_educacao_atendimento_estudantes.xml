@@ -1,0 +1,171 @@
+<!-- Dispõe sobre o atendimento dos estudantes com deficiência, transtorno do espectro autista e altas habilidades ou superdotação nas instituições de ensino públicas e privadas do sistema estadual de educação -->
+
+<lexml xmlns="http://www.lexml.gov.br/schema/lexml"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.lexml.gov.br/schema/lexml http://www.lexml.gov.br/schema/lexml/lexml.xsd">
+
+  <identificacao>
+    <tipo>Lei</tipo>
+    <numero>24844</numero>
+    <data>2024-06-27</data>
+    <ementa>Dispõe sobre o atendimento dos estudantes com deficiência, transtorno do espectro autista e altas habilidades ou superdotação nas instituições de ensino públicas e privadas do sistema estadual de educação.</ementa>
+    <sigla>LEI</sigla>
+    <local>Minas Gerais</local>
+    <autor>Assembleia Legislativa do Estado de Minas Gerais</autor>
+  </identificacao>
+
+  <publicacao>
+    <data>2024-06-27</data>
+    <veiculo>Diário do Executivo - MG</veiculo>
+  </publicacao>
+
+  <texto>
+    <artigo id="art1">
+      <identificacao>Art. 1º</identificacao>
+      <texto>O atendimento dos estudantes com deficiência, transtorno do espectro autista e altas habilidades ou superdotação nas instituições de ensino públicas e privadas do sistema estadual de educação observará o disposto nesta lei.</texto>
+    </artigo>
+
+    <artigo id="art2">
+      <identificacao>Art. 2º</identificacao>
+      <texto>A implementação de ações de atendimento dos estudantes com deficiência, transtorno do espectro autista e altas habilidades ou superdotação nas instituições de ensino públicas e privadas do sistema estadual de educação tem os seguintes objetivos:</texto>
+      <inciso id="art2.i">
+        <identificacao>I</identificacao>
+        <texto>garantir acesso e permanência na escola, participação nas atividades escolares e aprendizagem, fornecendo os recursos necessários para o desenvolvimento pessoal, social e intelectual dos estudantes;</texto>
+      </inciso>
+      <inciso id="art2.ii">
+        <identificacao>II</identificacao>
+        <texto>promover o respeito à diversidade, reconhecendo e valorizando as diferentes origens, culturas, habilidades e perspectivas dos estudantes e incentivando o desenvolvimento de suas potencialidades individuais;</texto>
+      </inciso>
+      <inciso id="art2.iii">
+        <identificacao>III</identificacao>
+        <texto>estimular o desenvolvimento integral dos estudantes, oferecendo condições para o aprimoramento de habilidades socioemocionais e cognitivas e práticas essenciais para sua autonomia e independência.</texto>
+      </inciso>
+    </artigo>
+    <artigo id="art3">
+      <identificacao>Art. 3º</identificacao>
+      <texto>Na implementação das ações de atendimento a que se refere o art. 2º, serão observadas as seguintes diretrizes:</texto>
+
+      <inciso id="art3.i">
+        <identificacao>I</identificacao>
+        <texto>reconhecimento e valorização das experiências e das habilidades dos estudantes e das diferenças entre eles, de modo a atender as suas especificidades educacionais e aos objetivos de aprendizagem a que eles têm direito;</texto>
+      </inciso>
+
+      <inciso id="art3.ii">
+        <identificacao>II</identificacao>
+        <texto>consideração da situação singular, do perfil individual, da característica biopsicossocial e da faixa etária de cada estudante, visando garantir a dignidade humana, a busca pela identidade própria e o desenvolvimento da capacidade de exercer a cidadania e a participação social, política e econômica;</texto>
+      </inciso>
+
+      <inciso id="art3.iii">
+        <identificacao>III</identificacao>
+        <texto>garantia de progressão escolar sem retrocessos nos anos de escolaridade e níveis de ensino, assegurando a continuidade de estudos e a sua conclusão;</texto>
+      </inciso>
+
+      <inciso id="art3.iv">
+        <identificacao>IV</identificacao>
+        <texto>oferta de serviços e de recursos de acessibilidade, como adequação arquitetônica e disponibilização de material didático e de recursos de tecnologia assistiva;</texto>
+      </inciso>
+
+      <inciso id="art3.v">
+        <identificacao>V</identificacao>
+        <texto>garantia de adaptações, modificações e ajustes para o acesso dos estudantes ao currículo com equidade, promovendo a conquista e o exercício de sua autonomia, observada a legislação vigente;</texto>
+      </inciso>
+
+      <inciso id="art3.vi">
+        <identificacao>VI</identificacao>
+        <texto>oferta de atendimento educacional especializado, de forma complementar ou suplementar, em salas de recursos multifuncionais e em classes, escolas ou serviços especializados públicos ou conveniados, mediante avaliação e interação com a família e a comunidade;</texto>
+      </inciso>
+
+      <inciso id="art3.vii">
+        <identificacao>VII</identificacao>
+        <texto>disponibilização de professores e profissionais especializados para suporte pedagógico, bem como de profissionais para auxílio em atividades cotidianas relacionadas à higiene, à alimentação e à locomoção, inclusive nos conservatórios estaduais de música;</texto>
+      </inciso>
+
+      <inciso id="art3.viii">
+        <identificacao>VIII</identificacao>
+        <texto>formação continuada dos profissionais de educação para o trabalho com metodologias inclusivas, materiais didáticos, equipamentos e outros recursos de tecnologia assistiva, bem como para o atendimento educacional especializado nas escolas urbanas, do campo, indígenas e de comunidades quilombolas;</texto>
+      </inciso>
+
+      <inciso id="art3.ix">
+        <identificacao>IX</identificacao>
+        <texto>utilização de instrumento de planejamento individualizado para orientação das ações pedagógicas e acompanhamento do desenvolvimento e da aprendizagem, com a participação do estudante, sempre que possível, e de seus pais ou responsáveis;</texto>
+      </inciso>
+
+      <inciso id="art3.x">
+        <identificacao>X</identificacao>
+        <texto>adaptação de atividades e de avaliações da aprendizagem para atender as necessidades educacionais específicas dos estudantes, em conformidade com o projeto pedagógico da escola e com o instrumento de planejamento individualizado;</texto>
+      </inciso>
+
+      <inciso id="art3.xi">
+        <identificacao>XI</identificacao>
+        <texto>flexibilização do tempo escolar, em observância aos incisos I e II do art. 59 da Lei Federal nº 9.394, de 20 de dezembro de 1996;</texto>
+      </inciso>
+
+      <inciso id="art3.xii">
+        <identificacao>XII</identificacao>
+        <texto>fomento ao acesso e à permanência dos estudantes com deficiência e transtorno do espectro autista no ensino superior e no mercado de trabalho;</texto>
+      </inciso>
+
+      <inciso id="art3.xiii">
+        <identificacao>XIII</identificacao>
+        <texto>estímulo à formação de redes de apoio que envolvam profissionais das áreas de educação, saúde, assistência social, trabalho e pesquisa, visando fomentar o desenvolvimento integral dos estudantes com deficiência, transtorno do espectro autista e altas habilidades ou superdotação.</texto>
+      </inciso>
+                 <inciso id="art3.xiv">
+        <identificacao>XIV</identificacao>
+        <texto>garantia de dieta alimentar específica para o aluno que necessite de atenção nutricional individualizada, nos termos do § 2º do art. 12 da Lei Federal nº 11.947, de 16 de junho de 2009;</texto>
+        <nota>Inciso acrescentado pelo art. 1º da Lei nº 25.169, de 18/3/2025.</nota>
+      </inciso>
+
+      <inciso id="art3.xv">
+        <identificacao>XV</identificacao>
+        <texto>avaliação sistemática e periódica da infraestrutura escolar e da oferta de serviços e de recursos especializados conforme as demandas e necessidades dos estudantes, em cada estabelecimento de ensino da rede estadual de educação básica, observado, no que couber, o disposto na Lei nº 24.130, de 6 de junho de 2022.</texto>
+        <nota>Inciso acrescentado pelo art. 1º da Lei nº 25.169, de 18/3/2025.</nota>
+      </inciso>
+
+      <inciso id="art3.xvi">
+        <identificacao>XVI</identificacao>
+        <texto>promoção de campanhas educativas dirigidas à comunidade escolar sobre a inclusão dos estudantes com deficiência e transtorno do espectro autista, abordando:</texto>
+
+        <alinea id="art3.xvi.a">
+          <identificacao>a)</identificacao>
+          <texto>o combate ao preconceito, à discriminação e a quaisquer formas de exclusão no ambiente escolar;</texto>
+        </alinea>
+
+        <alinea id="art3.xvi.b">
+          <identificacao>b)</identificacao>
+          <texto>os direitos assegurados aos estudantes com deficiência e transtorno do espectro autista pela legislação pertinente;</texto>
+        </alinea>
+
+        <alinea id="art3.xvi.c">
+          <identificacao>c)</identificacao>
+          <texto>a participação da comunidade escolar e das famílias no processo de inclusão dos estudantes com deficiência e transtorno do espectro autista.</texto>
+        </alinea>
+
+        <nota>Inciso acrescentado pelo art. 2º da Lei nº 25.415, de 31/7/2025.</nota>
+      </inciso>
+
+      <paragrafo id="art3.§1">
+        <identificacao>§ 1º</identificacao>
+        <texto>O Estado poderá designar estabelecimentos de ensino da rede estadual de educação básica como unidades de referência em educação inclusiva, com base nos resultados da avaliação de que trata o inciso XV do caput deste artigo.</texto>
+        <nota>Parágrafo acrescentado pelo art. 1º da Lei nº 25.169, de 18/3/2025.</nota>
+      </paragrafo>
+
+      <paragrafo id="art3.§2">
+        <identificacao>§ 2º</identificacao>
+        <texto>As campanhas educativas de que trata o inciso XVI do caput poderão ser realizadas por meio de articulação entre as áreas de educação, saúde e assistência social.</texto>
+        <nota>Parágrafo acrescentado pelo art. 2º da Lei nº 25.415, de 31/7/2025.</nota>
+      </paragrafo>
+    </artigo>
+
+    <artigo id="art4">
+      <identificacao>Art. 4º</identificacao>
+      <texto>Esta lei entra em vigor na data de sua publicação.</texto>
+    </artigo>
+  </corpo>
+
+  <assinatura>
+    <texto>Belo Horizonte, aos 27 de junho de 2024; 236º da Inconfidência Mineira e 203º da Independência do Brasil.</texto>
+    <autor>ROMEU ZEMA NETO</autor>
+    <cargo>Governador do Estado</cargo>
+  </assinatura>
+</lei>
+

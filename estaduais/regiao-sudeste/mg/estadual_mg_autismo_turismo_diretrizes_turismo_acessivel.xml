@@ -1,0 +1,68 @@
+<!-- Estabelece diretrizes para o estímulo ao turismo acessível e inclusivo para pessoas com Transtorno do Espectro Autista – TEA – no Estado --> 
+
+<lei xmlns="http://www.lexml.gov.br/legislacao" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.lexml.gov.br/legislacao http://www.lexml.gov.br/schema/lexml-legislacao.xsd">
+  <identificacao>
+    <tipo>Lei</tipo>
+    <numero>25276</numero>
+    <data>2025-06-03</data>
+    <titulo>Estabelece diretrizes para o estímulo ao turismo acessível e inclusivo para pessoas com Transtorno do Espectro Autista – TEA – no Estado.</titulo>
+    <jurisdicao>
+      <esfera>Estadual</esfera>
+      <entidade>MG</entidade>
+    </jurisdicao>
+  </identificacao>
+
+  <ementa>Estabelece diretrizes para o estímulo ao turismo acessível e inclusivo para pessoas com Transtorno do Espectro Autista – TEA – no Estado.</ementa>
+
+  <autoria>
+    <autor>Governador do Estado de Minas Gerais</autor>
+  </autoria>
+
+  <corpo>
+    <artigo id="art1">
+      <identificacao>Art. 1º</identificacao>
+      <texto>O estímulo ao turismo acessível e inclusivo no Estado para as pessoas com Transtorno do Espectro Autista – TEA – observará as seguintes diretrizes:</texto>
+
+      <inciso id="art1.i">
+        <identificacao>I</identificacao>
+        <texto>eliminação de barreiras urbanísticas, arquitetônicas, nos transportes e nas comunicações para a inclusão e a acessibilidade das pessoas com TEA aos espaços, aos serviços e às atividades turísticas;</texto>
+      </inciso>
+
+      <inciso id="art1.ii">
+        <identificacao>II</identificacao>
+        <texto>adaptação de espaços e serviços relacionados ao turismo para atender às necessidades das pessoas com TEA, proporcionando-lhes segurança e acolhimento;</texto>
+      </inciso>
+
+      <inciso id="art1.iii">
+        <identificacao>III</identificacao>
+        <texto>promoção e divulgação de atividades turísticas adaptadas às características e às preferências das pessoas com TEA, de forma a proporcionar-lhes experiências positivas e enriquecedoras;</texto>
+      </inciso>
+
+      <inciso id="art1.iv">
+        <identificacao>IV</identificacao>
+        <texto>capacitação de profissionais do setor turístico para atender pessoas com TEA e adotar práticas inclusivas;</texto>
+      </inciso>
+
+      <inciso id="art1.v">
+        <identificacao>V</identificacao>
+        <texto>desenvolvimento de políticas, programas e ações que promovam o turismo acessível e inclusivo para pessoas com TEA;</texto>
+      </inciso>
+
+      <inciso id="art1.vi">
+        <identificacao>VI</identificacao>
+        <texto>promoção de ações de conscientização sobre a segurança e os benefícios das viagens e dos passeios turísticos para o desenvolvimento social e emocional das pessoas com TEA e de seus familiares.</texto>
+      </inciso>
+    </artigo>
+
+    <artigo id="art2">
+      <identificacao>Art. 2º</identificacao>
+      <texto>Esta lei entrará em vigor na data de sua publicação.</texto>
+    </artigo>
+  </corpo>
+
+  <assinatura>
+    <texto>Belo Horizonte, aos 3 de junho de 2025; 237º da Inconfidência Mineira e 204º da Independência do Brasil.</texto>
+    <autor>ROMEU ZEMA NETO</autor>
+    <cargo>Governador do Estado</cargo>
+  </assinatura>
+</lei>
