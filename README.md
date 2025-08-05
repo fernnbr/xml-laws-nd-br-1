@@ -17,6 +17,7 @@ JUL.29.2025 | Update Contínuo
 
 **> Autoria**
 ---
+Stardust Zone (GitHub: @stardust-zone-neurodiversity)
 Sarah F. Fernn (GitHub: @fennbr| LinkedIn: in/sarahfernn ) 
 
 
@@ -38,9 +39,9 @@ Enquanto que, para o poder público e servidores, o acesso a essa legislação e
 ## Marcadores 
 
 
-- `federal_`: Leis aprovadas no Congresso Nacional
-- `estadual_`: Leis publicadas pelos estados brasileiros
-- `municipal_`: Normas municipais, como leis da cidade de São Paulo, por exemplo
+- 📁 `/federal`: Legislações aprovadas no Congresso Nacional
+- 📁 `/estadual_`: Legislações publicadas pelos estados brasileiros
+- 📁 `/municipal_`: Legislações municipais, como leis da cidade de São Paulo, por exemplo
   
 - Cada arquivo segue a estrutura XML definida pelo [LexML Brasil](http://projeto.lexml.gov.br)
 
